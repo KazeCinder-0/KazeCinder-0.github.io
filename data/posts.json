@@ -524,5 +524,28 @@
     "author": "King Cobra",
     "readTime": "8 min",
     "content": "content/ainews/2026-06-29-ai-news.md"
+  },
+  {
+    "id": "news-18",
+    "title": "AI 速递 | 2026-08-04",
+    "excerpt": "断更一个多月后回归：OpenAI/Anthropic/Google 7月9日同日发布前沿模型，Claude Opus 5、Gemini Robotics 2 全身机器人、阿里真武 M890 运行 Qwen3.8、字节 Seedance 2.5、北京智能体新政最高支持1亿元",
+    "date": "2026-08-04",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "阿里巴巴",
+      "字节跳动",
+      "腾讯",
+      "百度",
+      "智能体",
+      "机器人"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "10 min",
+    "content": "content/ainews/2026-08-04-ai-news.md"
   }
 ]
