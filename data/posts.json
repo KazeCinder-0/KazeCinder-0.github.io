@@ -177,10 +177,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-11-ai-news.md"
+    "content": "content/ainews/2026-06-11-ai-news.md"
   },
   {
     "id": "news-2",
@@ -190,10 +190,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-12-ai-news.md"
+    "content": "content/ainews/2026-06-12-ai-news.md"
   },
   {
     "id": "news-3",
@@ -203,10 +203,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-13-ai-news.md"
+    "content": "content/ainews/2026-06-13-ai-news.md"
   },
   {
     "id": "news-4",
@@ -216,10 +216,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-14-ai-news.md"
+    "content": "content/ainews/2026-06-14-ai-news.md"
   },
   {
     "id": "news-5",
@@ -229,10 +229,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-15-ai-news.md"
+    "content": "content/ainews/2026-06-15-ai-news.md"
   },
   {
     "id": "vibe-4",
@@ -322,10 +322,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-16-ai-news.md"
+    "content": "content/ainews/2026-06-16-ai-news.md"
   },
   {
     "id": "news-7",
@@ -335,10 +335,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-17-ai-news.md"
+    "content": "content/ainews/2026-06-17-ai-news.md"
   },
   {
     "id": "news-8",
@@ -348,10 +348,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-18-ai-news.md"
+    "content": "content/ainews/2026-06-18-ai-news.md"
   },
   {
     "id": "news-9",
@@ -361,10 +361,10 @@
     "tags": [
       "AI新闻"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-19-ai-news.md"
+    "content": "content/ainews/2026-06-19-ai-news.md"
   },
   {
     "id": "news-10",
@@ -379,11 +379,11 @@
       "智谱AI",
       "Google"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-20-ai-news.md"
+    "content": "content/ainews/2026-06-20-ai-news.md"
   },
   {
     "id": "news-11",
@@ -398,82 +398,131 @@
       "快手",
       "华为"
     ],
-    "category": "dailynews",
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-21-ai-news.md"
+    "content": "content/ainews/2026-06-21-ai-news.md"
   },
   {
     "id": "news-12",
     "title": "AI 每日速递 | 2026-06-22",
     "excerpt": "Google DeepMind痛失两员大将加盟竞对，OpenAI GPT-5.6下周发布，微信小微灰度测试，字节SpatialTree入选CVPR",
     "date": "2026-06-22",
-    "tags": ["AI新闻", "OpenAI", "Anthropic", "Google", "字节跳动", "腾讯"],
-    "category": "dailynews",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "字节跳动",
+      "腾讯"
+    ],
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "5 min",
-    "content": "content/dailynews/2026-06-22-ai-news.md"
+    "content": "content/ainews/2026-06-22-ai-news.md"
   },
   {
     "id": "news-13",
     "title": "AI 每日速递 | 2026-06-23",
     "excerpt": "智谱GLM-5.2开源引发硅谷热议，英伟达发布Halos机器人安全系统，GPT-5.6月底上线，微软Copilot接入DeepSeek，微信小微灰度测试",
     "date": "2026-06-23",
-    "tags": ["AI新闻", "智谱AI", "OpenAI", "英伟达", "微软", "腾讯", "阿里巴巴", "Anthropic"],
-    "category": "dailynews",
+    "tags": [
+      "AI新闻",
+      "智谱AI",
+      "OpenAI",
+      "英伟达",
+      "微软",
+      "腾讯",
+      "阿里巴巴",
+      "Anthropic"
+    ],
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "8 min",
-    "content": "content/dailynews/2026-06-23-ai-news.md"
+    "content": "content/ainews/2026-06-23-ai-news.md"
   },
   {
     "id": "news-14",
     "title": "AI 每日速递 | 2026-06-24",
     "excerpt": "全球AI股暴跌触发熔断，字节豆包2.1 Pro发布Token调用量180万亿，英特尔CEO预言CPU重回AI牌桌，五眼联盟警告西方AI优势仅剩数月",
     "date": "2026-06-24",
-    "tags": ["AI新闻", "OpenAI", "Anthropic", "字节跳动", "英特尔", "英伟达", "华为", "智谱AI"],
-    "category": "dailynews",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "字节跳动",
+      "英特尔",
+      "英伟达",
+      "华为",
+      "智谱AI"
+    ],
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "8 min",
-    "content": "content/dailynews/2026-06-24-ai-news.md"
+    "content": "content/ainews/2026-06-24-ai-news.md"
   },
   {
     "id": "news-15",
     "title": "AI 每日速递 | 2026-06-26",
     "excerpt": "OpenAI发布首款自研AI芯片Jalapeño，百度文心网站整合升级，MIT推出Murakkab系统降低AI Agent能耗73%，人大与微软发布Arbor自主科研框架",
     "date": "2026-06-26",
-    "tags": ["AI新闻", "OpenAI", "百度", "MIT", "Anthropic", "DeepMind"],
-    "category": "dailynews",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "百度",
+      "MIT",
+      "Anthropic",
+      "DeepMind"
+    ],
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "8 min",
-    "content": "content/dailynews/2026-06-26-ai-news.md"
+    "content": "content/ainews/2026-06-26-ai-news.md"
   },
   {
     "id": "news-16",
     "title": "AI 每日速递 | 2026-06-26",
     "excerpt": "OpenAI首款自研AI芯片Jalapeño发布，Google DeepMind将Computer Use集成到Gemini 3.5 Flash，字节豆包专业版上线，百度文心升级，华为昇腾950DT提前至8月上线",
     "date": "2026-06-26",
-    "tags": ["AI新闻", "OpenAI", "Google", "字节跳动", "百度", "华为", "Anthropic", "NVIDIA"],
-    "category": "dailynews",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Google",
+      "字节跳动",
+      "百度",
+      "华为",
+      "Anthropic",
+      "NVIDIA"
+    ],
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "8 min",
-    "content": "content/dailynews/2026-06-26-ai-news.md"
+    "content": "content/ainews/2026-06-26-ai-news.md"
   },
   {
     "id": "news-17",
     "title": "AI 每日速递 | 2026-06-29",
     "excerpt": "TechCrunch：OpenAI vs Anthropic叙事已过时，两家共陷监管困境；Anthropic AI for Science发布会周一登场；Reid Hoffman炮轰xAI是彻底训练事故；高盛：AI每月消除1.1万美国工作岗位",
     "date": "2026-06-29",
-    "tags": ["AI新闻", "OpenAI", "Anthropic", "Google", "字节跳动", "阿里巴巴", "百度"],
-    "category": "dailynews",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "字节跳动",
+      "阿里巴巴",
+      "百度"
+    ],
+    "category": "ainews",
     "chapter": "",
     "author": "King Cobra",
     "readTime": "8 min",
-    "content": "content/dailynews/2026-06-29-ai-news.md"
+    "content": "content/ainews/2026-06-29-ai-news.md"
   }
 ]
