@@ -11,8 +11,8 @@ async function loadPosts() {
       throw new Error('posts.json not found');
     }
   } catch (err) {
-    console.error('Failed to load posts:', err);
-    allPosts = [];
+    console.error('Failed to load posts, using fallback:', err);
+    allPosts = (typeof window !== 'undefined' && window.FALLBACK_POSTS) ? window.FALLBACK_POSTS : [];
   }
   allPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
   postsLoaded = true;
