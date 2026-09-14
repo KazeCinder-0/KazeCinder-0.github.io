@@ -592,5 +592,29 @@
     "author": "King Cobra",
     "readTime": "10 min",
     "content": "content/dailynews/2026-09-12-ai-news.md"
+  },
+  {
+    "id": "news-21",
+    "title": "AI 速递 | 2026-09-14",
+    "excerpt": "Dario发长文呼吁放慢前沿AI并获Altman、马斯克附议、英伟达拟100亿美元锚定Anthropic 2万亿IPO、OpenAI公开自研推理芯片Jalapeno、Meta发布24小时个人Agent Muse、智谱完成约50亿美元融资、DeepSeek V4.1-Flash发布并接管V4-Pro流量、Kimi K2.8 Preview全量上线",
+    "date": "2026-09-14",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "DeepMind",
+      "Meta",
+      "阿里",
+      "字节",
+      "腾讯",
+      "DeepSeek",
+      "智谱",
+      "月之暗面"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "10 min",
+    "content": "content/dailynews/2026-09-14-ai-news.md"
   }
 ]
