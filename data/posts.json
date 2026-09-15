@@ -616,5 +616,29 @@
     "author": "King Cobra",
     "readTime": "10 min",
     "content": "content/dailynews/2026-09-14-ai-news.md"
+  },
+  {
+    "id": "news-22",
+    "title": "AI 速递 | 2026-09-15",
+    "excerpt": "OpenAI开放全双工语音模型GPT-Live-1 API、Altman详解AI减速风险遭特朗普公开反驳、中国发布《人工智能安全治理框架3.0》、英伟达拟100亿美元锚定Anthropic史上最大IPO、智谱393亿港元融资细节全披露、中国大模型调用量连续20周全球第一",
+    "date": "2026-09-15",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Google DeepMind",
+      "字节",
+      "阿里",
+      "腾讯",
+      "智谱",
+      "DeepSeek",
+      "蚂蚁",
+      "政策"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "12 min",
+    "content": "content/dailynews/2026-09-15-ai-news.md"
   }
 ]
