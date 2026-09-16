@@ -640,5 +640,29 @@
     "author": "King Cobra",
     "readTime": "12 min",
     "content": "content/dailynews/2026-09-15-ai-news.md"
+  },
+  {
+    "id": "news-23",
+    "title": "AI 速递 | 2026-09-16",
+    "excerpt": "OpenAI拟以1.2万亿美元估值再融资、IPO推迟至2027；Google发布Gemini 3.8 Live与Live Extended Thinking；Anthropic上线Salesforce in Claude测试版；华为发布全球首个3D数据中心；字节AI办公大重组（豆包+飞书+火山引擎）；阶跃星辰StepAudio 3系列多项评测登顶；微信回应小微隐私争议",
+    "date": "2026-09-16",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Google DeepMind",
+      "Anthropic",
+      "华为",
+      "字节",
+      "腾讯",
+      "阶跃星辰",
+      "国产算力",
+      "存储",
+      "政策"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "13 min",
+    "content": "content/dailynews/2026-09-16-ai-news.md"
   }
 ]
