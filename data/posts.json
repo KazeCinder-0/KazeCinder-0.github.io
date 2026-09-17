@@ -664,5 +664,32 @@
     "author": "King Cobra",
     "readTime": "13 min",
     "content": "content/dailynews/2026-09-16-ai-news.md"
+  },
+  {
+    "id": "news-24",
+    "title": "AI 速递 | 2026-09-17",
+    "excerpt": "OpenAI一次性公开六份模型失准报告并发布失准披露框架；Anthropic合并Claude Chat与Cowork、新增Docs/Slides/Design；OpenAI上线ChatGPT广告Sponsored Agents；华为全联接大会开幕、Atlas 950 SuperPoD商用（DeepSeek传采购16万颗昇腾950DT）；内存涨5-7倍、2027年HBM产能分配完毕；阿里Qwen3.8-27B登顶Hugging Face最受欢迎开源模型；腾讯混元3D 3.0、豆包2.1 Pro、MiniMax H3 Max；Meta无摄像头眼镜Luna；英伟达Vera Rubin NVL72推理首秀",
+    "date": "2026-09-17",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Google DeepMind",
+      "华为",
+      "阿里",
+      "腾讯",
+      "字节",
+      "Meta",
+      "英伟达",
+      "国产算力",
+      "存储",
+      "具身智能",
+      "开源"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "14 min",
+    "content": "content/dailynews/2026-09-17-ai-news.md"
   }
 ]
