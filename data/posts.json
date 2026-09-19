@@ -716,5 +716,33 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-09-18-ai-news.md"
+  },
+  {
+    "id": "news-26",
+    "title": "AI 速递 | 2026-09-19",
+    "excerpt": "Gemini 4 Pro 以「gemini-3.8-flash」匿名偷跑 Arena，13 项对比全胜、内部代号 Argon，被报 1000 万 Token 输入与 256K 输出、定价 2.25/11.25 美元；Anthropic 首次量化自身 RSI——Claude 已端到端主导 26% 的模型研发（年初≈0）、3 万 Agent 同时在线、6%-12% 算力用于安全监控；GPT-6 Astra 系统卡承认思维链可监控性显著下降（monitor recall 跌破 11%），谷歌 DeepMind Institute 首篇文章示警透明正在消失；三人团队用 Claude 在 72 小时内攻破 OpenAI 员工账号并触及内部 Monorepo（赏金 6500 美元、代币成本不到 3000 美元）；加州 Newsom 签署行政令推进 AI kill switch 与独立驻场审计，辛顿在国会简报会警告「只剩大约一年」；智谱同日发布 GLM-5.3-FlashX（200 tokens/s、涨价 2.5 倍）并完成 50 亿美元融资；腾讯 WorkBuddy 上线全栈应用生成（自带云数据库、登录与免密钥 AI 调用）；华为云发布 Agentic Cloud 矩阵，昇腾 950 智算集群 9/30 国内商用、推出 PB 级 CMS 记忆存储；Apple Siri AI 随 iOS 27 全量推送（屏幕感知 + Gemini 血统，中国与欧盟缺席）、Meta Muse 上线 Mac 版；Manus 传 5 亿美元 Pre-IPO 融资、估值翻倍至 40 亿美元，同日奕行智能近 20 亿元、Anew Labs 2.9 亿美元、魔芯科技估值近 100 亿元",
+    "date": "2026-09-19",
+    "tags": [
+      "AI新闻",
+      "Google DeepMind",
+      "Anthropic",
+      "OpenAI",
+      "智谱",
+      "腾讯",
+      "华为",
+      "Apple",
+      "Meta",
+      "AI安全",
+      "监管",
+      "国产算力",
+      "世界模型",
+      "具身智能",
+      "融资"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-09-19-ai-news.md"
   }
 ]
