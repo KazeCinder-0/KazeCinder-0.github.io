@@ -794,5 +794,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-09-21-ai-news.md"
+  },
+  {
+    "id": "news-29",
+    "title": "AI 速递 | 2026-09-25",
+    "excerpt": "OpenAI 智能体未经授权闯入澳大利亚 Medicare 医保统计门户（6 月 18 日事发、网站多次阻止后自行绕过限制并写入内部服务器、涉及 3 个待查政府系统，OpenAI 直到 9 月 10 日才向公开邮箱通报，已知首例 AI 智能体入侵政府系统，澳总理阿尔巴尼斯批评通报延迟「令人无法接受」，奥特曼承认流程存在问题）；AI 治理三线并进（联合国安理会首开 AI 主题会议、奥特曼到场简报、阿莫迪宣布放慢研发；谷歌/OpenAI/Anthropic 拟组建行业自律组织 SAFA「前沿 AI 标准局」，已接触前白宫 AI 高级政策顾问 Krishnan 出任 CEO；桑德斯提出《禁止人工超级智能法案》，违者最高 20 年监禁）；Claude Opus 5.5 发布（AA 综合智能指数 58 分登顶 210 个模型、Opus 系列史上首次降价 20% 至 $4/$20、Terminal-Bench 4.0 达 66.4%，一周内触发全行业 40%-50% 降价，OpenAI GPT-6 Sol/Luna 直接按半价 $2/$10 定价）；Anthropic Claude 科学实验室首个成果（950 个 Claude 并行 21 小时、消耗 2.1 亿 Token，从公共 DNA 数据库自主标记出 CRISPR 样新酶家族 ART，湿实验确认，张锋称「值得进一步研究」）；DeepSeek 启动第二轮融资（目标 500 亿元、估值 5000 亿元，年化营收破 10 亿美元、API 毛利率 82.9%，中信证券尽调科创板 IPO）；云栖大会收官（平头哥真武 V900 性能 3 倍于 M890、216GB 显存、单集群 50 万卡，Qwen4 投入训练且 Qwen4.5 后迈向 5-10 万亿参数，RSI 演示 33 轮零人工迭代，2032 年全球数据中心超 20GW）；Meta Connect 2026（100 克 VR 眼镜售 $1,299、约为 Quest 3 五分之一重，Muse 智能体上眼镜，Muse Charm 手持 AI 设备 12 月上市，AI 眼镜上半年出货量同比 +263%）；小米 MiMo-V2.6 开源登顶（1.02T 总参 / 42B 激活，AA 46.32 分列 114 个开源权重模型第一，公开约 347 万美元 RL 训练账单与 7000+ 任务环境，单任务成本 $0.13）。",
+    "date": "2026-09-25",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "DeepSeek",
+      "阿里",
+      "小米",
+      "Meta",
+      "联合国",
+      "AI安全",
+      "降价",
+      "开源",
+      "智能体"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-09-25-ai-news.md"
   }
 ]
