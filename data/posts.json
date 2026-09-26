@@ -819,5 +819,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-09-25-ai-news.md"
+  },
+  {
+    "id": "news-30",
+    "title": "AI 速递 | 2026-09-26",
+    "excerpt": "2026-09-26 AI 速递：过去 24 小时，AI 在\"入口之争\"与\"算力账本\"两端加速。微软 9/25 推 Copilot 超级应用，把 Word/Excel/PowerPoint 嵌入 Home/Code/Autopilot，股价涨 3.66%；Google 令 Gemini 3.8 Live Avatar 正式可用（97 语言、SynthID 水印），并宣布 10/1 发射首颗在轨 AI 卫星 Suncatcher（4 颗 TPU）。OpenAI 据《财富》将在 DevDay（9/29）预览第四款网安模型 GPT-6 Cyber。Anthropic 与 Akamai 签 116 亿美元七年云协议（可扩至 200 亿、附最高 5% 股权）；高盛估 2026 全球 AI 投资破 1 万亿美元、回本门槛 3000 亿美元/年。Meta Muse 两周下载 250 万登顶美加榜，却因算力瓶颈 9/25 回调 3.33%。治理侧 UN 安理会分歧依旧，中国框架 3.0 与 EU AI Act（10/1 生效）同步推进，特斯拉 Optimus 产量跳升 10 倍勾勒硬件链条新变量。",
+    "date": "2026-09-26",
+    "tags": [
+      "AI新闻",
+      "Copilot",
+      "Anthropic",
+      "Akamai",
+      "GPT-6 Cyber",
+      "Gemini",
+      "Suncatcher",
+      "高盛",
+      "Meta Muse",
+      "玻璃基板",
+      "AI治理",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-09-26-ai-news.md"
   }
 ]
