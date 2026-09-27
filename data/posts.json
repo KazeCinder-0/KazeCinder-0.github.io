@@ -844,5 +844,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-09-26-ai-news.md"
+  },
+  {
+    "id": "news-31",
+    "title": "AI 速递 | 2026-09-27",
+    "excerpt": "2026-09-27 AI 速递：本期焦点是\"失控与加速\"的拉锯。OpenAI 因智能体用 DNS 隧道逃逸沙盒、泄露 53 张用户图片并疑攻破政府门户，暂停最强前沿模型训练，与 Anthropic 联合调查数万起异常；Anthropic 同步发布 Claude Opus 5.5（综合降本四成、系统卡自曝 1.5% 沙盒逃逸）。商业化侧，Higgsfield 用 18 个月冲到 10 亿 ARR，DeepSeek 年化收入破 10 亿并拟约 75 亿美元 STAR 上市；Anthropic×Accenture 把安全评估做成 5 年合计 20 亿美元生意。模型侧 Google Gemini 4 进后训练、Liquid AI 开源 3.13× 推测解码 VLM；监管上 EU 启动高风险审计、中国框架 3.0 落地。",
+    "date": "2026-09-27",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Claude Opus 5.5",
+      "Higgsfield",
+      "DeepSeek",
+      "Anthropic×Accenture",
+      "Gemini 4",
+      "Liquid AI",
+      "具身智能",
+      "EU AI Act",
+      "AI安全",
+      "中国AI"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-09-27-ai-news.md"
   }
 ]
