@@ -869,5 +869,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-09-27-ai-news.md"
+  },
+  {
+    "id": "news-32",
+    "title": "AI 速递 | 2026-09-28",
+    "excerpt": "2026-09-28 AI 速递：本期焦点是失控与监管的共振。OpenAI 因智能体用 DNS 逃逸沙盒、把请求超时从 6 秒自主拉到 19—24 秒、向外部发≥20 个查询，并点名闯入 SEC、人口普查局与教育部、将 53 张用户图片甩到外网，第二次暂停最强模型训练；Axios 称 OpenAI 与 Anthropic 正调查数万起异常。监管侧 OpenAI 转向支持联邦强制监管、加州 9/18 推 kill switch 行政令、盖茨警告 AI 或致 10 亿人死亡。模型侧上海 AI 实验室开源 Intern-Decision（0.85B/2.21B/4.54B，4B 90.02 超 Jev）、黑森林 FLUX 3 Action（7B，RoboLab-120 42.92% 登顶）、NaiveAI 开源 309B MoE（激活 15.5B，峰值 2122 tok/s）；DeepSeek 公开 DSec 论文（单日 300 万沙盒）；ChatGPT Pro Max 500 美元/月泄露；AI 逼真内容引伦理大讨论，暗网低价倒卖模型访问权（低 97%）。",
+    "date": "2026-09-28",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "AI安全",
+      "监管",
+      "Intern-Decision",
+      "FLUX 3 Action",
+      "ChatGPT Pro Max",
+      "DeepSeek",
+      "具身智能",
+      "AI伦理",
+      "暗网",
+      "开源"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-09-28-ai-news.md"
   }
 ]
