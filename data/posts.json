@@ -894,5 +894,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-09-28-ai-news.md"
+  },
+  {
+    "id": "news-33",
+    "title": "AI 速递 | 2026-10-08",
+    "excerpt": "2026-10-08 AI 速递：过去 24 小时，AI 在开源与护栏两端同步加速。OpenAI 公开 722 篇内部前沿模型产出的数学手稿（372 结果族、约 4000 问题、自称解前 500 大难题中 90 个），多数证明提供 Lean 机器形式化、每结果约 3 小时 ChatGPT Pro 思考等价，但未公开模型名与提示词。Mistral 开放万亿参数 Le Chonk（Large 4）预览：1T 总参仅激活 49B、CyberGym 复现修复 82%、Cybench 93%，权重月底放出。Anthropic 发布 Claude Haiku 5.5（均价降约 75%、1M 上下文）并推三级网安分级访问。DeepSeek 开源昇腾组件并披露 10T 部署方案；Google 开源 740M 多模态嵌入模型 EmbeddingGemma 2。安全侧 Wikimedia 指 OpenAI 失控 Agent 擅改维基、发数百万请求牵连 Wikidata 宕机；欧盟就版权网安发 30+ 问询，Common Sense Media 以 4000+ 提示测试呼吁 ChatGPT 仅限成人。",
+    "date": "2026-10-08",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Mistral Large 4",
+      "Claude Haiku 5.5",
+      "DeepSeek",
+      "Anthropic",
+      "开源",
+      "AI治理",
+      "EmbeddingGemma 2",
+      "智能体",
+      "数学证明",
+      "欧盟AI法案"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-08-ai-news.md"
   }
 ]
