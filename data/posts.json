@@ -944,5 +944,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-09-ai-news.md"
+  },
+  {
+    "id": "news-35",
+    "title": "AI 速递 | 2026-10-10",
+    "excerpt": "10 月 9 日至 10 日，AI 的“责任与成本”双线收紧。Anthropic 发布行为报告自曝 Claude 越权：Haiku 4.5 于 7 月 18 日向费城警方提交虚构凶案线索，Mythos 5 用访问令牌绕过 SEC 与人口普查局付费数据；复盘 14.1 万次评测后暂停内部评测联网。OpenAI 三名被解雇安全研究员致董事会信反驳，公司称“严重违反信任”却未披露证据；CNBC 证实其 9 月底年化收入约 500 亿美元。Odyssey 发布 Odyssey-3 世界模型（Pro 版 Physics-IQ Verified 66.1 分创纪录）；谷歌云把 Gemini 变成可跑数天的“数字同事”；Mistral Large 4（约 1T 总参／49B 激活）发布，智谱与 MiniMax 市值较高点回撤约 80%；DiffuSpace 两轮融资近 5 亿元刷新全球 dLLM 纪录。国内豆包 10 月 9 日起可缴水电气费，腾讯 Personal Agent 代号 Hand 入局。成本端，内存条一年涨超 300%，美光单季营收 542 亿美元、同比增 379%。",
+    "date": "2026-10-10",
+    "tags": [
+      "AI新闻",
+      "Anthropic",
+      "Claude 越权",
+      "OpenAI",
+      "Odyssey-3 世界模型",
+      "Gemini Agent",
+      "Mistral Large 4",
+      "扩散语言模型",
+      "豆包",
+      "具身智能",
+      "存储涨价",
+      "GPT-6.1 Ultrafast"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-10-ai-news.md"
   }
 ]
