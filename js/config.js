@@ -4,7 +4,8 @@ const CONFIG = {
   categoryLabels: {
     vibecoding: 'VibeCoding',
     'ai-engineering': 'AI 工程',
-    ainews: 'AI 速递'
+    ainews: 'AI 速递',
+    backend: '后端工程'
   },
 
   // 章节排序

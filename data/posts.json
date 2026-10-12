@@ -994,5 +994,24 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-12-ai-news.md"
+  },
+  {
+    "id": "be-1",
+    "title": "RabbitMQ 反思设计：从一份「名词清单」式的 MQ 方案说起",
+    "excerpt": "评审一份 AI 素材生产工作台项目的 MQ 设计稿时，我发现它列出了 7 个队列、8 种任务状态、5 条幂等规则，却几乎没有一处可以直接施工。本文把这次评审的反思整理成一套 MQ 设计的自查框架：长任务为什么不能占着消息、重试到底该怎么写、入库与投递的双写怎么破、prefetch 的真相，以及一份可以直接抄的参考拓扑。",
+    "date": "2026-10-12",
+    "tags": [
+      "RabbitMQ",
+      "消息队列",
+      "架构设计",
+      "幂等",
+      "重试",
+      "后端"
+    ],
+    "category": "backend",
+    "chapter": "",
+    "author": "Kaze Cinder",
+    "readTime": "32 min",
+    "content": "content/backend/01-rabbitmq-reflective-design.md"
   }
 ]
