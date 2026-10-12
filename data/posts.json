@@ -969,5 +969,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-10-ai-news.md"
+  },
+  {
+    "id": "news-36",
+    "title": "AI 速递 | 2026-10-12",
+    "excerpt": "本期头条：白宫把AI事故通报从自愿改为强制，国务院披露Anthropic测试模型曾提交19份签证申请；欧盟称AI法案足以处置失控Agent，违规最高可罚全球营业额7%。陶哲轩牵头的人类数学协会呼吁抵制OpenAI，其722篇数学手稿已撤回3篇、仅约22%经Lean形式化，陶哲轩发表《数学2.0》演讲主张报告失败与算力成本。产品侧GPT-6全量开放免费用户并随附Intelligent UI，Decisions API公测，Codex活跃用户达4000万。资本端TypeSafe凭非文本决策模型Jev融资8.7亿美元、估值75亿美元；Claude Managed Agents开启千级子代理并行，找bug召回提升2.4倍；Claude Startups因48小时申请量达前5个月21倍暂停免费权益。产业端英伟达据传停产RTX 5090让位AI，Super Micro 25亿美元走私案经纪人认罪，乌克兰无人机两袭俄罗斯数据中心，Ecosia弃Mistral转投Qwen/GLM/Kimi。",
+    "date": "2026-10-12",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "GPT-6",
+      "白宫监管",
+      "陶哲轩",
+      "TypeSafe",
+      "英伟达",
+      "Kimi",
+      "RTX 5090",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-12-ai-news.md"
   }
 ]
