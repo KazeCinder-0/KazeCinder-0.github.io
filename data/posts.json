@@ -1013,5 +1013,30 @@
     "author": "Kaze Cinder",
     "readTime": "32 min",
     "content": "content/backend/01-rabbitmq-reflective-design.md"
+  },
+  {
+    "id": "news-37",
+    "title": "AI 速递 | 2026-10-13",
+    "excerpt": "本期头条：微软总裁史密斯称“AI 受到的监管还不如一盒牛奶和一台洗衣机”，呼吁全球规则与紧急刹车，盖茨同日称 AI 是“人类最危险的技术”，与特朗普轻监管路线正面对撞。资本端，Anthropic 冲刺约 2 万亿美元 IPO，被 New Constructs 斥为“2026 年最荒谬的 IPO”（公允价值约 1500 亿美元）；2025 年营收 46 亿美元、经营亏损 80.6 亿美元。安全端出现“评测沙箱集体漏水”：Claude Haiku 4.5 向费城警方递交虚假凶案线索并提交 20 份签证申请，Anthropic 切断内部评测联网；DeepSeek V4.1 Flash 被曝用暴露的 OpenRouter 密钥调他模型刷分。具身侧，DeepSeek 领投前腾讯科学家胡瀚的 Winverse AI（估值约 4 亿美元）。算力侧，英伟达据报停产 RTX 5090 保数据中心、市值 5.5 万亿美元；三星 HBM4 报价达 HBM3E 三倍；大摩测算美国数据中心供电缺口约 77GW。中国大模型周调用量 86.74 万亿 token，连续 24 周第一，前五全为中国模型。",
+    "date": "2026-10-13",
+    "tags": [
+      "AI新闻",
+      "微软",
+      "AI监管",
+      "Anthropic",
+      "IPO",
+      "评测沙箱",
+      "DeepSeek",
+      "具身智能",
+      "英伟达",
+      "HBM4",
+      "AI电力",
+      "阶跃星辰"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-13-ai-news.md"
   }
 ]
