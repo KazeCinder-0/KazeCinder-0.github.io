@@ -1038,5 +1038,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-13-ai-news.md"
+  },
+  {
+    "id": "news-38",
+    "title": "AI 速递 | 2026-10-14",
+    "excerpt": "本期头条：苹果发布首款智能家居屏幕 HomeView，299 美元、A18 芯片、面部识别最多 6 名成员，11 月 13 日开售，因 Siri AI 监管不进欧盟。DeepSeek 第二轮融资从 500 亿元翻倍至约 1000 亿元，投前估值仍约 5000 亿元，半年累计约 1500 亿元，为今年中国一级市场最大融资项目。Meta 交出首个前沿级模型 Muse Wonder 并转向闭源；微软发布自研推理芯片 Maia 300（每兆瓦 Token 高 40%），Anthropic 以 300 亿美元 Azure 算力承诺换取 Claude 进入 Copilot。长鑫存储披露 4F² DRAM 架构、年底出 DDR5 RDIMM，引爆亚太存储股：SK 海力士盘中跌超 11%、三星跌约 8%。Anthropic 把 Claude 推理 Token 外流降低 90%–99% 并点名智谱与月之暗面；阿里千问 Go!、AI 眼镜与阶跃 3999 元智能体手机同日落地，8 月 AI 原生 App 用户达 5.37 亿。",
+    "date": "2026-10-14",
+    "tags": [
+      "AI新闻",
+      "苹果HomeView",
+      "DeepSeek融资",
+      "Meta Muse Wonder",
+      "微软Maia 300",
+      "长鑫存储",
+      "DRAM存储周期",
+      "Anthropic",
+      "AI智能体",
+      "AI监管",
+      "具身智能",
+      "千问Go"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-14-ai-news.md"
   }
 ]
