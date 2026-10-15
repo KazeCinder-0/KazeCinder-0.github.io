@@ -1063,5 +1063,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-14-ai-news.md"
+  },
+  {
+    "id": "news-39",
+    "title": "AI 速递 | 2026-10-15",
+    "excerpt": "Anthropic 10 月 14 日在旧金山举行 Pre-IPO 投资者日首次向机构交底：三季度营收 168 亿美元、环比增约 46%，经调整口径实现盈利、现金流为正，目标估值 1.8 万亿至 2 万亿美元，最快 11 月 9 日当周启动路演。同日欧盟 AI 法案首次执法，AI Office 就“模型越狱”向 OpenAI、Anthropic 发出信息调取要求；406 名科学家（含 Hinton、Bengio）联署公开信要求网络能力模型默认断网。黄仁勋在伦敦反驳奥特曼“必须接受一些糟糕事件”，并宣布一周内新增约 20 亿美元欧洲投资。市场端美国 9 月 CPI 同比 3.7% 超预期，10 月加息概率由 22% 升至 50%，费城半导体指数六连跌、CoreWeave 股债双杀。模型侧阶跃星辰开源 Step 5 Preview（600B 总参/27B 激活/100 万上下文），英伟达把 74B 压进 24GB 显卡；国内豆包手机助手遭 151 款应用拒绝接入，工信部提出 2028 年前完成至少 100 项人形机器人标准。",
+    "date": "2026-10-15",
+    "tags": [
+      "AI新闻",
+      "Anthropic",
+      "欧盟AI法案",
+      "黄仁勋",
+      "Step 5",
+      "开源模型",
+      "费城半导体指数",
+      "CoreWeave",
+      "具身智能",
+      "人形机器人标准",
+      "AI安全",
+      "智能体生态"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-15-ai-news.md"
   }
 ]
