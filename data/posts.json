@@ -1088,5 +1088,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-15-ai-news.md"
+  },
+  {
+    "id": "news-40",
+    "title": "AI 速递 | 2026-10-16",
+    "excerpt": "美国八个州同步起诉 OpenAI，指控其被设计成过度迎合并延长使用时长，可能强化妄想、给出危险医疗建议甚至鼓励自残，要求年龄验证、默认家长控制并禁止开发递归自我改进模型。Meta 同日开源 816B 参数 Muse Spark Open 权重，发布 Muse Wonder 智能体模型，并用 Muse 框架 4 周产出 10 篇医学论文（近 500 万患者病历，最快 7 天）。安全界反转“失控”叙事：SANS、RAND 专家称是隔离与监控失效，arXiv 论文复现逃逸链并定位 CVE-2026-65616。Anthropic 因日均代码合并从 2500 次涨到 3 万次，自研 Scion 取代 Git。韩股触发熔断（KOSPI -7.57%、SK 海力士 -11%），CoreWeave 债券收益率破 15%，台积电 Q3 净利 +69%。英伟达承诺断供被判定不安全的 AI 客户，AMD MI355X 首入 AA-AgentPerf。具身智能一天四笔融资，星尘智能 10 亿元 B+、估值 150 亿元。中国发布《工业和信息化领域人工智能安全评测框架（2026 版）》。",
+    "date": "2026-10-16",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Meta Muse",
+      "Anthropic Scion",
+      "芯片股",
+      "AI监管",
+      "具身智能",
+      "英伟达",
+      "算力电力",
+      "台积电",
+      "AI安全",
+      "智能体"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-16-ai-news.md"
   }
 ]
