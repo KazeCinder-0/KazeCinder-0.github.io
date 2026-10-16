@@ -49,6 +49,22 @@ document.addEventListener('click', (e) => {
   }
 });
 
+// 文章阅读进度条
+window.addEventListener('scroll', () => {
+  if (typeof updatePostProgress === 'function') updatePostProgress();
+}, { passive: true });
+
+// 快捷键聚焦首页搜索
+document.addEventListener('keydown', (e) => {
+  if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+    const search = document.getElementById('home-search');
+    if (search) {
+      e.preventDefault();
+      search.focus();
+    }
+  }
+});
+
 // Hero 聚光灯跟随鼠标
 let spotlightRaf = 0;
 let spotlightTarget = { x: 0, y: 0 };
@@ -63,15 +79,14 @@ document.addEventListener('mousemove', (e) => {
 });
 
 function updateSpotlight() {
+  const card = document.getElementById('hero-spotlight');
+  if (!card) return;
   const dx = spotlightTarget.x - spotlightCurrent.x;
   const dy = spotlightTarget.y - spotlightCurrent.y;
   spotlightCurrent.x += dx * 0.08;
   spotlightCurrent.y += dy * 0.08;
-  const card = document.getElementById('hero-spotlight');
-  if (card) {
-    card.style.setProperty('--spotlight-x', spotlightCurrent.x + '%');
-    card.style.setProperty('--spotlight-y', spotlightCurrent.y + '%');
-  }
+  card.style.setProperty('--spotlight-x', spotlightCurrent.x + '%');
+  card.style.setProperty('--spotlight-y', spotlightCurrent.y + '%');
   spotlightRaf = requestAnimationFrame(updateSpotlight);
 }
 requestAnimationFrame(updateSpotlight);

@@ -44,11 +44,11 @@ async function render() {
     const post = allPosts.find(p => p.id === id);
     title = post ? post.title + ' | ' + CONFIG.author : 'Not Found | ' + CONFIG.author;
   } else if (hash.startsWith('#/tag/')) {
-    const tag = hash.replace('#/tag/', '');
+    const tag = decodeURIComponent(hash.replace('#/tag/', ''));
     page = await renderHome(tag, null);
     title = '#' + tag + ' | ' + CONFIG.author;
   } else if (hash.startsWith('#/category/')) {
-    const category = hash.replace('#/category/', '');
+    const category = decodeURIComponent(hash.replace('#/category/', ''));
     page = await renderHome(null, category);
     title = (CONFIG.categoryLabels[category] || category) + ' | ' + CONFIG.author;
   } else if (hash.startsWith('#/library')) {
@@ -67,5 +67,6 @@ async function render() {
   document.title = title;
   window.scrollTo(0, 0);
   if (typeof initTagCloud === 'function') initTagCloud();
+  if (typeof updatePostProgress === 'function') updatePostProgress();
   renderInProgress = false;
 }

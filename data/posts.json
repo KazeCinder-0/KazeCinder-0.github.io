@@ -1113,5 +1113,25 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-16-ai-news.md"
+  },
+  {
+    "id": "be-2",
+    "title": "MQ 批量任务幂等复盘：不要用 task-id 代替业务去重键",
+    "excerpt": "第一次按 task-id 去重，挡住了同一批消息的重复投递，却挡不住不同批次之间的重叠数据；改成按回调判断，又遇到断网重连后的重复执行。本文从这两个故障还原问题边界，给出批量任务的业务幂等键、消费端状态闸门、外部调用幂等和回调去重的完整设计。",
+    "date": "2026-10-16",
+    "tags": [
+      "RabbitMQ",
+      "消息队列",
+      "幂等",
+      "去重",
+      "批量任务",
+      "重试",
+      "后端"
+    ],
+    "category": "backend",
+    "chapter": "",
+    "author": "Kaze Cinder",
+    "readTime": "20 min",
+    "content": "content/backend/02-mq-batch-idempotency-retrospective.md"
   }
 ]
