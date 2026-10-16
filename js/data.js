@@ -25,6 +25,13 @@ function getAllTags() {
   return Array.from(set).sort();
 }
 
+// 按标签被文章匹配的次数降序（次数相同按名称排序），用于标签云默认展示
+function getAllTagsByUsage() {
+  const count = {};
+  allPosts.forEach(p => p.tags.forEach(t => { count[t] = (count[t] || 0) + 1; }));
+  return Object.keys(count).sort((a, b) => count[b] - count[a] || a.localeCompare(b, 'zh-CN'));
+}
+
 function getCategories() {
   return [...new Set(allPosts.map(p => p.category))].sort();
 }

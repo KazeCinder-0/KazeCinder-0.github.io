@@ -7,6 +7,72 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
+// ===== 标签云：默认只显示前两行（使用次数最多的标签），其余点击展开 =====
+const TAG_VISIBLE_ROWS = 2;
+let tagCloudExpanded = false;
+
+function initTagCloud() {
+  const cloud = document.getElementById('tag-cloud');
+  if (!cloud) return;
+  const items = Array.from(cloud.querySelectorAll('.tag-item'));
+  const toggle = document.getElementById('tag-toggle');
+  if (!toggle) return;
+  tagCloudExpanded = false;
+
+  if (!items.length) { toggle.style.display = 'none'; return; }
+
+  // 先全部显示再测量所在行
+  items.forEach(el => { el.classList.remove('hidden', 'tag-extra'); el.style.display = 'contents'; });
+  const tops = items.map(el => {
+    const box = el.querySelector('button') || el;
+    return box.offsetTop;
+  });
+
+  // 按 offsetTop（误差 1px）归组为行号
+  const rowKeys = [];
+  const rowOf = tops.map(top => {
+    const idx = rowKeys.findIndex(k => Math.abs(k - top) <= 1);
+    if (idx === -1) { rowKeys.push(top); return rowKeys.length - 1; }
+    return idx;
+  });
+
+  if (rowKeys.length <= TAG_VISIBLE_ROWS) {
+    toggle.style.display = 'none';
+    return;
+  }
+
+  items.forEach((el, i) => {
+    if (rowOf[i] >= TAG_VISIBLE_ROWS) {
+      el.classList.add('hidden', 'tag-extra');
+      el.style.display = 'none';
+    }
+  });
+  const hiddenCount = items.length - items.filter((_, i) => rowOf[i] < TAG_VISIBLE_ROWS).length;
+  toggle.querySelector('.tag-toggle-label').textContent = '展开全部 ' + hiddenCount + ' 个';
+  toggle.style.display = '';
+}
+
+function toggleTagCloud(btn) {
+  const extras = document.querySelectorAll('#tag-cloud .tag-extra');
+  const expanded = !extras[0] || extras[0].style.display !== 'none';
+  extras.forEach(el => {
+    el.style.display = expanded ? 'contents' : 'none';
+    el.classList.toggle('hidden', !expanded);
+  });
+  tagCloudExpanded = expanded;
+  btn.innerHTML = expanded
+    ? '<span class="tag-toggle-label">收起</span> ▴'
+    : `<span class="tag-toggle-label">展开全部 ${extras.length} 个</span> ▾`;
+}
+
+// 窗口尺寸变化时重算折叠行（仅在折叠态下）
+let tagCloudResizeTimer = null;
+window.addEventListener('resize', () => {
+  if (tagCloudExpanded) return;
+  clearTimeout(tagCloudResizeTimer);
+  tagCloudResizeTimer = setTimeout(initTagCloud, 200);
+});
+
 function renderTagBadge(tag, active) {
   return `<button class="px-3 py-1 rounded-full text-xs font-medium font-mono border border-border text-muted hover:tag-hover transition-all duration-300 cursor-pointer ${active === tag ? '!border-purple-500 !text-purple-400 !bg-purple-500/10' : ''}" onclick="window.location.hash='#/tag/${tag}'">#${escapeHtml(tag)}</button>`;
 }
@@ -26,7 +92,7 @@ function sortChapters(a, b) {
 
 // ===== Pages =====
 async function renderHome(activeTag, activeCategory) {
-  const allTags = getAllTags();
+  const allTags = getAllTagsByUsage();
   let filteredPosts = allPosts;
 
   if (activeTag) {
@@ -84,10 +150,11 @@ async function renderHome(activeTag, activeCategory) {
       </section>
 
       <section class="mb-8 animate-fade-in-up stagger-2">
-        <div class="flex flex-wrap items-center gap-2">
+        <div class="flex flex-wrap items-center gap-2" id="tag-cloud">
           <span class="text-xs font-mono text-muted uppercase tracking-wider mr-2">tags:</span>
           <button class="px-3 py-1 rounded-full text-xs font-medium font-mono border border-border text-muted hover:tag-hover transition-all duration-300 cursor-pointer ${activeTag ? 'bg-purple-500/10 border-purple-500 text-purple-400' : ''}" onclick="window.location.hash='#/'">all</button>
-          ${allTags.map(t => renderTagBadge(t, activeTag)).join('')}
+          ${allTags.map(t => `<span class="tag-item">${renderTagBadge(t, activeTag)}</span>`).join('')}
+          <button id="tag-toggle" style="display:none" class="px-3 py-1 rounded-full text-xs font-medium font-mono border border-purple-500/50 text-purple-400 hover:bg-purple-500/10 transition-all duration-300 cursor-pointer" onclick="toggleTagCloud(this)"><span class="tag-toggle-label">展开全部</span> ▾</button>
         </div>
       </section>
     ` : ''}

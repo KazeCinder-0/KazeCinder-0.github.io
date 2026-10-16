@@ -66,5 +66,6 @@ async function render() {
   main.innerHTML = `<div class="animate-fade-in-up">${page}</div>`;
   document.title = title;
   window.scrollTo(0, 0);
+  if (typeof initTagCloud === 'function') initTagCloud();
   renderInProgress = false;
 }
