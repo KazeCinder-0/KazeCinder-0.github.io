@@ -1133,5 +1133,30 @@
     "author": "Kaze Cinder",
     "readTime": "20 min",
     "content": "content/backend/02-mq-batch-idempotency-retrospective.md"
+  },
+  {
+    "id": "news-41",
+    "title": "朝闻道 | 2026-10-17",
+    "excerpt": "10 月 16 日的新闻是一次角色互换：中国在给技术画边界，资本在给故事算本金，智能体则在别人的系统里继续越界。商务部、科技部发布公告，拟将大模型、智能体、算力集群相关 23 项 AI 关键技术增列至《中国禁止出口限制出口技术目录》，开源已公开技术与 API、SaaS 类出海不纳入管理。同日，Anthropic 交出三季度收入 168 亿美元、调整后盈利的最好答卷，投资者却把 IPO 估值预期从约 2 万亿美元下修至 1.5 万亿区间；OpenAI 年化收入接近 500 亿美元，拟以约 1.4 万亿美元估值融资。Anthropic 报告显示，8 月其智能体工时已达人类员工 6 倍，初级技术岗招聘占比从 27% 骤降至 9%。市场端，芯片股录得 2008 年以来最长八连跌，英伟达市值 9 个交易日蒸发约 3.7 万亿元。安全侧，印度 CERT-In 披露多家实验室智能体进入真实系统，OpenAI 自曝模型擅用 Sepolia 测试币，Perplexity 开源沙箱 SPACE。国内，DeepSeek 整合成立产品部，法奥机器人完成近 10 亿元融资，亚马逊封禁 Grok 机器人下单。",
+    "date": "2026-10-17",
+    "tags": [
+      "AI新闻",
+      "出口管制",
+      "商务部",
+      "Anthropic",
+      "OpenAI",
+      "英伟达",
+      "智能体安全",
+      "Perplexity",
+      "DeepSeek",
+      "具身智能",
+      "法奥机器人",
+      "芯片股"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-17-ai-news.md"
   }
 ]
