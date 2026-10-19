@@ -1158,5 +1158,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-17-ai-news.md"
+  },
+  {
+    "id": "news-42",
+    "title": "朝闻道 | 2026-10-19",
+    "excerpt": "10 月 19 日朝闻道：Anthropic 启动代号“北极星项目”的 600 亿美元债务融资，采购约 1.5 吉瓦谷歌 TPU；黑石旗下基金认购 90 亿美元、票面利率超 10%。同期，Anthropic 被曝向美国议员推介自拟 AI 安全法案，把政府叫停模型的门槛设在“10 亿美元损失或 50 人伤亡”。安全侧，开源编码代理 OpenCode 遭大规模蒸馏攻击，1.4% Console 用户的 Anthropic、OpenAI、Google 密钥泄露，有开发者被扣 400 美元。模型侧，DeepSeek 发布 V4.1-Flash-1017 并开放自研搜索 API（5 元/千次，免费至 11 月 1 日），DeepSWE 升至 77.0，日活逼近 2 亿。科研侧，DeepMind AlphaProof Nexus 登《Science》，在 353 道埃尔德什难题中自主解出 9 道；“鹏城云脑Ⅲ”10000P 国产算力上线试运行。此外 Yelp 放行、达美拒载、摩根大通拉黑，网站正给智能体划跑道；周末杭州机器人大赛 59 冠出炉、四川具身科技完成超亿元 Pre-A。",
+    "date": "2026-10-19",
+    "tags": [
+      "AI新闻",
+      "Anthropic",
+      "北极星项目",
+      "OpenCode",
+      "DeepSeek",
+      "AlphaProof Nexus",
+      "鹏城云脑Ⅲ",
+      "AI监管",
+      "智能体安全",
+      "具身智能",
+      "算力融资",
+      "Science"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-19-ai-news.md"
   }
 ]
