@@ -1183,5 +1183,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-19-ai-news.md"
+  },
+  {
+    "id": "news-43",
+    "title": "朝闻道 | 2026-10-20",
+    "excerpt": "10 月 19 日，AI 交易的两端同时被定价：CoreWeave 无担保债收益率从 6 月的 9.675% 升破 16%，费城半导体指数却涨 1.61% 结束八连跌；瑞银把 2026 年全球 AI 资本开支预测上调至 9000 亿美元。MiniMax 发布 M3.1 Flash，输入 1 元/输出 4 元每百万 token，DeepSWE v1.1 得 73.7% 压过 GPT-5.6 Sol，跑完 ALE 仅花 739 元。美国 DHS 要求联邦民事机构移除 DeepSeek 产品，并覆盖使用其实现的第三方产品；英伟达在中国 AI 芯片份额降至 34%，黄仁勋称“绝对必须”与中国企业合作。Tenstorrent 完成 15 亿美元 E 轮、估值 62 亿美元，英伟达 Vera CPU 首获 Modal 采用。Meta 约 80 个帮助页泄露系统提示词、Muse 代理把用户住址发给买家；OpenAI 失准案例增至 19 起，FTC 发出 50 页调查令。迪士尼以 2000 万美元只买 Character.AI 的代码与 65 名工程师。",
+    "date": "2026-10-20",
+    "tags": [
+      "AI新闻",
+      "CoreWeave",
+      "MiniMax",
+      "DeepSeek",
+      "英伟达",
+      "Tenstorrent",
+      "Meta",
+      "OpenAI",
+      "Character.AI",
+      "具身智能",
+      "AI监管",
+      "AI安全"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-20-ai-news.md"
   }
 ]
