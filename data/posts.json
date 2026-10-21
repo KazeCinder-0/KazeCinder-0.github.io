@@ -1208,5 +1208,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-20-ai-news.md"
+  },
+  {
+    "id": "news-44",
+    "title": "朝闻道 | 2026-10-21",
+    "excerpt": "10 月 20 日，两家最贵的 AI 公司同时摊开账本：OpenAI 加速推进约 300 亿美元融资、投后估值或超 1.4 万亿美元；Anthropic 招股书显示上半年净亏超 807 亿美元（其中 720 亿为可转债估值变动计提），并背着逾 5180 亿美元十年算力承诺。算力端，字节、阿里、腾讯向英伟达下单逾 300 万张 RTX PRO 5500、总值逾 350 亿美元，而 2027 年全球产量上限仅 300 万张，实际供应比例只有 5%–10%。电力成为更硬的墙：2025 年全球数据中心投运 8.9GW 对需求 21.1GW，四大云厂 2026 年资本开支约 7500 亿美元。融资端开始漏水，CoreWeave 债务约 500 亿美元、债息 15%–16%，韩国最大 IPO Elice 首日跌 32%。开源侧 DeepSeek 开源推理框架 DeepInfer 并兼容昇腾；腾讯元宝搜索对外开放，千亿索引、8 毫秒检索。安全侧一名黑客用 AI 智能体以每次约 50 美元打穿 100 多家公司网站。",
+    "date": "2026-10-21",
+    "tags": [
+      "AI新闻",
+      "OpenAI融资",
+      "Anthropic IPO",
+      "RTX PRO 5500",
+      "AI电力",
+      "CoreWeave",
+      "DeepSeek DeepInfer",
+      "腾讯元宝搜索",
+      "Nemotron 3.5",
+      "AI智能体攻击",
+      "长鑫科技",
+      "存储超级周期"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-21-ai-news.md"
   }
 ]
