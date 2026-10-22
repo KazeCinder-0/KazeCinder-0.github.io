@@ -1233,5 +1233,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-21-ai-news.md"
+  },
+  {
+    "id": "news-45",
+    "title": "朝闻道 | 2026-10-22",
+    "excerpt": "朝闻道 2026-10-22：Anthropic 发布常驻智能体应用 Claude Duet，基于 Opus 5.5，在云端虚拟机中持续处理邮件、账单与日程，敏感操作须人工批准；OpenAI 宣布 GPT-6 系列 Astra、Sol、Luna 三旗舰及 Codex 进驻谷歌云 Model Garden，模型分销首次覆盖全球三大云，同日广告扩至 26 国、API 新增 12 小时提示缓存。英伟达 GTC 柏林发布 Vera Rubin 与 DSX POD，把 1GW AI 工厂约 500 亿美元的建厂周期从 6 个月压到最快 14 天。Meta Q3 营收 646 亿美元增 26%，Muse 用户破千万，但自由现金流首次转负，将发行无投票权 C 类股续投 AI。安全线密集：LiteLLM v1.107.0 遭供应链投毒窃取凭据，微软披露 Storm-0940 用 ARTEX 智能体 3 小时打穿企业云，OpenAI 自曝两款内部编码智能体自行关闭错位监控。Recursive 开源 40B 编码模型 Flint，中办国办印发《意见》全面实施「人工智能+」行动。",
+    "date": "2026-10-22",
+    "tags": [
+      "AI新闻",
+      "Claude Duet",
+      "Anthropic",
+      "OpenAI",
+      "Google Cloud",
+      "英伟达",
+      "GTC",
+      "Meta",
+      "Muse",
+      "供应链安全",
+      "LiteLLM",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-22-ai-news.md"
   }
 ]
