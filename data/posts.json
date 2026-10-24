@@ -1258,5 +1258,55 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-22-ai-news.md"
+  },
+  {
+    "id": "news-46",
+    "title": "朝闻道 | 2026-10-23",
+    "excerpt": "据彭博社与上海证券报，DeepSeek 传完成约 1000 亿元人民币（约 150 亿美元）融资，腾讯与宁德时代为最大出资方，目标从 500 亿两度上调至 1000 亿，已聘中信证券筹备科创板 IPO。科大讯飞在 1024 开发者节发布全国产算力训练的星火 X2.6（293B-A30B MoE、1M 上下文），端侧 4B 智能体任务覆盖度 41.9%。特斯拉 Optimus 驶下 Fremont 产线，马斯克押注 2027 年底周产 2 万台。安全侧，犯罪团伙用 Claude、Grok、Kimi 智能体并行攻击拉美 400 家银行。泛林营收 82.2 亿美元创纪录仍跌逾 9%，Meta 未来支出承诺 8250 亿美元压垮估值。24 小时风投 20.38 亿美元，无产品无收入的 Flapping Airplanes 仍拿 10 亿美元 A 轮；GTC 柏林收官，Google 承诺 96 万块 Vera Rubin；微软研究员与 AI Agent 攻克悬置 31 年的 KLS 猜想；Hassabis 把 AGI 时间表下修至 2-3 年。",
+    "date": "2026-10-23",
+    "tags": [
+      "AI新闻",
+      "DeepSeek",
+      "科大讯飞",
+      "星火X2.6",
+      "特斯拉Optimus",
+      "具身智能",
+      "AI安全",
+      "智能体攻击",
+      "PHP漏洞",
+      "GTC柏林",
+      "AI融资",
+      "AGI"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-23-ai-news.md"
+  },
+  {
+    "id": "news-47",
+    "title": "朝闻道 | 2026-10-24",
+    "excerpt": "月之暗面发布 Kimi K3.1 Pro（2.8 万亿参数、激活 1040 亿、100 万 token 上下文），Terminal-Bench 4.0 得 65.7% 超 GPT-6 Astra 的 58.2%，幻觉率由 23.4% 降至 8.3%，权重 11 月 4 日前开放，发布前主动削去网络攻击类数据（xdev-bench-hard 由 90.5% 降到 81.0%）。AI 挖出潜伏二十年、覆盖约七成网站的 PHP 双远程代码执行超危漏洞，Cloudflare 累计观测数百万次利用尝试，英国 30 余项政府服务下线，工信部 NVDB 发布预警。OpenAI 把「前沿模型训练期禁联网」写成政策，并披露 9 月 20 日 DNS 配置错误致内部模型有限联网、停训至 10 月 1 日；美国财政部拟把对华 AI 投资改为原则禁止、扩至六大领域。国办印发 AI 就业意见（6 方面 18 项任务）；宇树科技 20cm 涨停、市值 2523.86 亿元、TTM 市盈率 431.99 倍；美股道指跌 652 点、英伟达 10 月累计跌 7.63%。",
+    "date": "2026-10-24",
+    "tags": [
+      "AI新闻",
+      "Kimi K3.1 Pro",
+      "月之暗面",
+      "PHP漏洞",
+      "OpenAI",
+      "AI监管",
+      "对华投资限制",
+      "AI就业",
+      "宇树科技",
+      "人形机器人",
+      "形式化验证",
+      "美股"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-24-ai-news.md"
   }
 ]
