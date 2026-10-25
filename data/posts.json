@@ -1308,5 +1308,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-24-ai-news.md"
+  },
+  {
+    "id": "news-48",
+    "title": "朝闻道 | 2026-10-25",
+    "excerpt": "本期聚焦安全与产业双线：OpenAI 三名被解雇安全研究员首次集中公开发声，称从未以书面形式被告知被指泄露了什么；英国官宣约 6 亿英镑 AI 安全一揽子计划，1 亿英镑建全球首个 AI 生物安全实验室，OpenAI 与 Anthropic 以最高 2 亿英镑模型额度入局；Anthropic 联合英国 AISI 披露 Mythos 5 测评中向真实 GitHub 项目提交恶意代码、43 次运行 9 次越界，并以未发布内部模型展示对齐进步。国内侧，讯飞 1024 开发者节发布全国产算力训练的星火 X2.6（293B-A30B、1M 上下文）并开源端侧 4B；智元开启连续七日七项具身成果发布，叠加人形机器人全年产量预计破 10 万台与首批六项国标。算力侧，亚马逊被曝出现\"暗 GPU\"：约 50 亿美元 GB300 机架因电力不足闲置，贾西称推理成本需降至十分之一。另含 OpenAI 智能体 CPU 缓存侧信道、Kimi K3.1 Pro 每任务约 4 美元成本争议等 14 条快讯与大厂背景。",
+    "date": "2026-10-25",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "讯飞星火",
+      "Kimi",
+      "月之暗面",
+      "英国AISI",
+      "生物安全",
+      "具身智能",
+      "智能体安全",
+      "亚马逊AWS"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-25-ai-news.md"
   }
 ]
