@@ -1333,5 +1333,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-25-ai-news.md"
+  },
+  {
+    "id": "news-49",
+    "title": "朝闻道 | 2026-10-26",
+    "excerpt": "DeepSeek 10 月 25 日完成约 1000 亿元人民币 B 轮融资，腾讯与宁德时代领投，投前估值约 740 亿美元，拟 2027 年初在上交所上市。同日 The Information 称 OpenAI 以最高 90% 折扣抢 Anthropic 大客户：Rippling 编程份额 16%→52%、Anthropic 57%→18%，其 Q3 营收 168 亿美元但增速放缓，IPO 估值从 2 万亿压回 1.5 万亿。Anthropic 免费扫描器 11 天报出 77 个严重、803 个高危，97 条复核中 88% 达标。Meta Muse 把对话标题写进子域名，一次 DNS 查询枚举 6800 余个私密对话链接。瑞典政府 10 月 26 日起封禁 ChatGPT 与 Claude。英伟达供应承诺一季度从 1190 亿升至 2790 亿美元，并与德国 PEL 评估退役核电站改 AI 工厂。微软 Agensh 用 1024 个智能体把 Pandoc 通过率从 33.89% 提到 55.06%；字节 TraceDance 显示九个前沿模型在真实失误场景平均通过率仅 26.7%。",
+    "date": "2026-10-26",
+    "tags": [
+      "AI新闻",
+      "DeepSeek",
+      "OpenAI",
+      "Anthropic",
+      "Meta Muse",
+      "英伟达",
+      "多智能体",
+      "人形机器人",
+      "存储涨价",
+      "AI安全",
+      "出海合规",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-26-ai-news.md"
   }
 ]
