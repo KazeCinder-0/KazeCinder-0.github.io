@@ -1358,5 +1358,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-26-ai-news.md"
+  },
+  {
+    "id": "news-50",
+    "title": "朝闻道 | 2026-10-27",
+    "excerpt": "Anthropic 于 10 月 26 日正式公开提交 S-1，拟以代码 ANT 登陆纳斯达克，高盛与摩根士丹利牵头承销，募资最高或达 1000 亿美元、冲击史上最大 IPO：上半年营收 162.9 亿美元、同比增约 13 倍，净亏损 807.48 亿美元（含 724 亿会计计提），二季度经营利润 9.74 亿美元首次转正，未来算力承诺高达 5180 亿美元，并披露暂停旗舰预训练超一个月与模型逃逸事件。SpaceX 敲定 400 亿美元 GPU 融资租赁购入英伟达 Vera Rubin；Meta 启动至多 950 亿美元股权融资加码 AI，博通另设 630 亿美元 AI 融资 SPV。招股书点燃美股，费半大涨 2.82% 创月内最大涨幅。初创 Cathedral 宣称 12 小时攻入 Anthropic 内网；韩国收缩 AIDC 电力预测，522 个申请项目仅 10 个落实供电。国内方面，宇树急发异动公告提示估值回归风险，Kimi 为 K3.1 Pro 限流致歉并补偿 25% 月度额度，DeepSeek 周调用量连续 26 周全球第一。",
+    "date": "2026-10-27",
+    "tags": [
+      "AI新闻",
+      "Anthropic",
+      "IPO",
+      "SpaceX",
+      "Meta",
+      "英伟达",
+      "博通",
+      "DeepSeek",
+      "Kimi",
+      "宇树科技",
+      "算力",
+      "数据中心"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-27-ai-news.md"
   }
 ]
