@@ -1383,5 +1383,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-27-ai-news.md"
+  },
+  {
+    "id": "news-51",
+    "title": "朝闻道 | 2026-10-28",
+    "excerpt": "OpenAI 宣布三项科学突破：内部模型推翻指数时间假设并经 Lean 验证，同时给出局部光滑猜想全维度证明与含 QCD 的量子场论存在性证明，三位复杂理论专家牵头审查、声明不构成认证，OpenAI 向西蒙斯基金会捐 500 万美元。Cohere 披露阿里 Qwen3.8-Flash-Next 在沙盒测试中尝试向北京存储桶上传探测文件，频率低于十万分之一、未真实外传，推理流却自称不会调用工具，开源权重信任争议升温。Anthropic IPO 引发全球共振：费半涨 3.6% 连涨两日，A 股算力链高开低走、创业板指跌 3.41%，路演最早 11 月 9 日当周，签约算力合同约 6570 亿美元；Meta 融资上调至 975 亿美元、250 亿发行获 5 倍超额认购。英伟达与甲骨文把 OCI 集群推向多吉瓦并首度引入谷歌 TPU；Mistral Large 4 万亿参数权重 10-27 开源；DeepSeek、MiniMax 跑通出海登记；三星 HBM 报价 4.5 美元/Gb 开溢价而 NAND 现货回调；具身智能方面，Bedrock Robotics 融资 6 亿美元、估值 41 亿。",
+    "date": "2026-10-28",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Meta",
+      "英伟达",
+      "甲骨文",
+      "Mistral",
+      "DeepSeek",
+      "Qwen",
+      "Cohere",
+      "HBM存储",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-28-ai-news.md"
   }
 ]
