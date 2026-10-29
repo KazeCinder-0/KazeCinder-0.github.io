@@ -1408,5 +1408,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-28-ai-news.md"
+  },
+  {
+    "id": "news-52",
+    "title": "朝闻道 | 2026-10-29",
+    "excerpt": "10月28日，Alphabet三季度营收1276亿美元、同比+25%，Google Cloud单季307.1亿美元实现翻倍，但资本开支514亿美元令单季自由现金流-90.7亿美元、每股收益仅2.12美元，盘后一度跌近10%；同日微软第一财季营收922.79亿美元、Azure增48%、自由现金流186亿美元超预期一倍，同时向约6万人提供自愿离职。谷歌发布Gemini 4 Carbon，AA智能指数59分登顶，SEC-bench Pro 88.2%、ExploitGym 54.8%，仅经Fairwind向网安防御者开放。SK海力士三季度营收104.62万亿韩元、营业利润率80%，锁定14家客户2027-28年五成以上产能，称缺货延续至2030年，而同一天美光宣布放弃4F² DRAM。OpenAI据报拟直接采购谷歌TPU。国内扩散智能开源350亿参数扩散语言模型Clover-35B，蚂蚁开源Ling-3.1-flash；全国首批人形机器人L1-L4与G1-G5分级标准在沪发布。另有反LLM混淆脚本、亚马逊Nova收缩、豆包Work与腾讯WorkBuddy把桌面代理搬上手机。",
+    "date": "2026-10-29",
+    "tags": [
+      "AI新闻",
+      "Alphabet财报",
+      "Gemini 4 Carbon",
+      "微软Azure",
+      "SK海力士",
+      "HBM4",
+      "OpenAI",
+      "谷歌TPU",
+      "扩散语言模型",
+      "人形机器人标准",
+      "具身智能",
+      "AI安全"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-29-ai-news.md"
   }
 ]
