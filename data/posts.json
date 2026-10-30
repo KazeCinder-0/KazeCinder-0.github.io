@@ -1433,5 +1433,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-29-ai-news.md"
+  },
+  {
+    "id": "news-53",
+    "title": "朝闻道 | 2026-10-30",
+    "excerpt": "10 月 29 日，资本市场改写 AI 的记账方式：英伟达盘中成为全球首家市值破 5 万亿美元的公司（收盘回落 1.17%），甲骨文在投资者日给烧钱划出时间表——2029 财年自由现金流超 300 亿美元、新增融资上限 200 亿美元，单日大涨 10.73%，Alphabet 则因现金流恶化盘前重挫逾 10%。微软首次以美元口径披露 Azure 单季收入 332 亿美元，来自 OpenAI 的单季收入达 100 亿美元、应收账款 72 亿美元。OpenAI 在用户抗议后服软，Pro 全系额度翻倍、取消 Pro 200 砍半计划。腾讯数字生态大会官宣混元 Hy4 即将发布，Agent Runtime 沙箱 60 毫秒启动、每分钟可建 16 万个；智元创新日收官 AI WAVE 七连发，六台 G2 机器人 11 月 2—3 日进便利店接受 24 小时直播“转正考核”。Personal Agent 赛道挤满：Meta Muse 落地新加坡、灵光 2.0 六天下载破 200 万。美国联邦机构 10 月 29 日起须用 Super Intelligence 替代 AI。",
+    "date": "2026-10-30",
+    "tags": [
+      "AI新闻",
+      "英伟达",
+      "甲骨文",
+      "微软",
+      "OpenAI",
+      "腾讯",
+      "混元Hy4",
+      "智元机器人",
+      "具身智能",
+      "PersonalAgent",
+      "数据中心",
+      "市值"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-30-ai-news.md"
   }
 ]
