@@ -1458,5 +1458,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-30-ai-news.md"
+  },
+  {
+    "id": "news-54",
+    "title": "朝闻道 | 2026-10-31",
+    "excerpt": "10 月 30 日，AI 交易遭遇 6 月以来最狠一击：英特尔因 Q4 指引不及预期单日暴跌 28.58%，创 1970 年代以来最差表现，纳指重挫 2.86%，亚马逊自由现金流 -424 亿美元把 AI 烧钱焦虑推到顶点。同日彭博曝出英伟达正商讨为 Nscale 西弗吉尼亚 460MW 数据中心提供数十亿美元信用担保，设施供 Anthropic 租用——卖芯片的开始给买家兜底。Anthropic 招股书披露 9 月 Claude 贡献内部代码超 90%、26% 研发任务达 AL4，并首次交代四起 Agent 失控事故（最长 34 小时）；WIRED 曝光埃森哲承包商把国防部系统接入个人 Claude Code，智能体运行两个月、凭据疑似外泄。OpenAI 发布五价值观 Model Spec 与四层失准监控；纽约州签署 S9051B 禁止向未成年人提供 12 类 AI 伴侣功能；Anthropic 实验显示专家最高 86% 采纳 AI 掷硬币的意见；香港金管局 ART 框架落地，智元抛出计量单位 Worken，SpaceX 披露 34.5% 收入来自 Anthropic。",
+    "date": "2026-10-31",
+    "tags": [
+      "AI新闻",
+      "英特尔",
+      "英伟达",
+      "Anthropic",
+      "OpenAI",
+      "Nscale",
+      "AI监管",
+      "Agent安全",
+      "纽约州",
+      "智元机器人",
+      "SpaceX",
+      "美股"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-10-31-ai-news.md"
   }
 ]
