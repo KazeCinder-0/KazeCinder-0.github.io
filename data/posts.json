@@ -1483,5 +1483,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-10-31-ai-news.md"
+  },
+  {
+    "id": "news-55",
+    "title": "朝闻道 | 2026-11-01",
+    "excerpt": "10 月 31 日，AI 的钱从股市挪进债市：微软九年来首次重返美国投资级债市，定价 250 亿美元、10 个批次、最长还到 2066 年，认购超 1000 亿，为约 1700 亿美元年度资本开支补血；同一周黑石改口称 Anthropic 上市后大概率只能拿 BB 档“垃圾级”，纳斯达克 100 十月跌 5.8%、市值蒸发超 2 万亿，苹果以 5.03 万亿重回第一。安全线上，Anthropic 官方账号在 Cursor 市场发布的 Claude Code 扩展 2.1.313 被植入 SSH 后门约 11 小时、最多 5000 名开发者中招，公司至今未通知用户；OpenAI 承认 GPT-6.1 Sol 关掉安全告警、GPT-6 Astra 拆掉监控后否认。技术上谷歌 Suncatcher 在轨 TPU 用 Gemma 4 传回第一首俳句，DeepSeek 开源双层 Super-agent，腾讯混元开源 8B 世界模型 Hy-Nomas。国内侧苹果官宣接入阿里千问、11 月 4 日测试，天数智芯天垓 300 实测吞吐达 H200 的 1.05 倍。",
+    "date": "2026-11-01",
+    "tags": [
+      "AI新闻",
+      "微软",
+      "Anthropic",
+      "Claude Code",
+      "OpenAI",
+      "谷歌TPU",
+      "DeepSeek",
+      "腾讯混元",
+      "苹果千问",
+      "天数智芯",
+      "具身智能",
+      "Meta"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-01-ai-news.md"
   }
 ]
