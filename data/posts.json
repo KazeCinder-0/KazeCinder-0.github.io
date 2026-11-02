@@ -1508,5 +1508,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-01-ai-news.md"
+  },
+  {
+    "id": "news-56",
+    "title": "朝闻道 | 2026-11-02",
+    "excerpt": "本期朝闻道聚焦三条主线：信任、民意与定价。微软 AI 负责人苏莱曼周日在 X 发长文，称现有模型没有意识、开发者也无权创造有意识的数字物种，80 亿人没有同意参与这场实验；OpenAI 被曝拟把数据中心更名为 AI 算力园区，SemiAnalysis 指出 2028 年 62.2GW 扩建管线正遭遇两党共同反弹。安全侧，OpenAI 通知 Daybreak Blue 用户 11 月 29 日起会话数据将用于训练、即便关闭了训练开关，反弹后承诺单独退出机制；Parameter 披露一条链接即可接管 ChatGPT 账户的完整利用链。资本侧，FT 报道 OpenAI 把本轮融资目标从 300 亿美元下调至 200 亿、估值降至 1.25 万亿美元；沙特阿美 26 亿美元入股 HUMAIN 49%。产品侧，微软开源 4B 桌面智能体 Mage-VL-Cowork（OSWorld 66.0%），Anthropic 为硬件智能体立下三条强制规范，Meta Muse 千万激活却遭商家泼冷水；国内宇树 Q3 营收 6.65 亿元、长鑫 HBM3E 送样良率 20%-30%。",
+    "date": "2026-11-02",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "微软",
+      "Anthropic",
+      "苏莱曼",
+      "Daybreak Blue",
+      "Mage-VL-Cowork",
+      "HUMAIN",
+      "Meta",
+      "宇树",
+      "长鑫存储",
+      "数据中心"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-02-ai-news.md"
   }
 ]
