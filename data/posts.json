@@ -1533,5 +1533,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-02-ai-news.md"
+  },
+  {
+    "id": "news-57",
+    "title": "朝闻道 | 2026-11-03",
+    "excerpt": "11 月 2 日，Marvell 以 1150 亿美元全股票收购 Lumentum，溢价 23.9%，为今年最大科技并购；当日 Marvell 跌 12.7%、Lumentum 跌 18.6%。Anthropic 拟向日本投资者出售 5529 亿日元（约 35 亿美元）股票，纽约市主计长质疑创始人通过 Founder LLC 握 50.1% 表决权。OpenAI 在阿布扎比签四项协议，ADNOC 成首家落地其技术的能源企业。OpenAI、谷歌、微软、Anthropic 同意在 robots.txt 加统一 AI 训练退出标记，谷歌与微软 2027 年支持。美团发布 LongCat-2.5，1.6 万亿总参、480 亿激活、全程国产算力，AutomationBench 51.8 超 Opus 5。Claude 发现潜伏 11 年的 Linux 内核漏洞，53 分钟拿 root，Ubuntu 仍未修复。特拉华州拟允许 AI 运营的公司注册。摩根士丹利测算美国 2028 年电力净缺口 43GW。中国具身智能上半年融资 322 笔；香港证监会调查显示 30% 机构已用代理型 AI。",
+    "date": "2026-11-03",
+    "tags": [
+      "AI新闻",
+      "Marvell",
+      "Lumentum",
+      "Anthropic IPO",
+      "美团LongCat",
+      "Linux内核漏洞",
+      "robots.txt",
+      "特拉华AIC",
+      "具身智能",
+      "电力缺口",
+      "香港证监会",
+      "AI并购"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-03-ai-news.md"
   }
 ]
