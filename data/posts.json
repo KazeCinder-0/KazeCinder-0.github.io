@@ -1608,5 +1608,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-05-ai-news.md"
+  },
+  {
+    "id": "news-60",
+    "title": "朝闻道特刊 | 开发者新品七日谈（2026-10-29 ~ 11-05）",
+    "excerpt": "本期为特刊，只收 10-29 至 11-05 七天内「今天就能上手」的开发者发布。Kimi Hosted Agents 正式发布，把 Agent 运行框架 Harness 做成云端服务：7×24 托管环境、140+ Skills 与 30+ 插件、8 个开箱即用的金融模板；DeepSeek Harness 上线创造模式，一句话约五分半生成可运行插件。Meta Muse 本周落地新加坡并披露美加超 1000 万用户配置、25% 日活，Muse Wonder API 定价每百万 token 输入 4 美元、输出 20 美元；马斯克把 Grok Bot 定调为「数字同事」——每 bot 一台云端电脑、演示学习工作流、纯订阅制无免费档。GPT-6.1 Terra 进入 Notion，Hume 音频判定 API 直接对原始录音返回概率；开源侧 Agentbox、LongGuard、Pagesift 一周密集上新。安全侧：Claude Code 官方扩展被投毒 11 小时波及约 5000 名开发者（附自查命令），Google 披露 LLMJacking 产业链。",
+    "date": "2026-11-05",
+    "tags": [
+      "AI新闻",
+      "Kimi",
+      "DeepSeek",
+      "Muse",
+      "Grok",
+      "Agent",
+      "开发者工具",
+      "开源",
+      "MCP",
+      "Codex",
+      "Claude Code",
+      "API"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "12 min",
+    "content": "content/dailynews/2026-11-05-weekly-dev-launches.md"
   }
 ]
