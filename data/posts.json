@@ -1583,5 +1583,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-04-ai-news.md"
+  },
+  {
+    "id": "news-59",
+    "title": "朝闻道 | 2026-11-05",
+    "excerpt": "中期选举夜美股剧烈分化：民主党夺得众议院并夺回参议院，道指暴涨1569点、涨3.03%创2025年4月以来最佳单日，微软、亚马逊涨超6%，但担忧AI基建监管收紧的资金把英伟达打到跌3.17%、费半跌3.13%，WTI原油暴跌8.29%。国内腾讯混元Hy4正式版发布，首次引入视觉理解与Computer Use，定价维持输入6元/输出18元每百万tokens。The Information披露Anthropic组建15人团队让Claude全流程参与定制芯片设计，IPO定档11月、估值剑指1.5万亿美元；彭博社称中国拟推覆盖开发到部署全生命周期的AI安全标准。SemiAnalysis测算OpenAI与Anthropic将拿走2027年全球新增算力的25%-40%，H100一年期合约价从1.70涨至2.80美元每小时。资本侧fal融资13亿美元、估值160亿翻倍，简智机器人1亿美元A+轮押注物理AI数据底座，Agility Robotics以1400倍市销率登陆纳斯达克。此外OpenAI为误封逆向工程师道歉并恢复账号，Anthropic开源可验证推理系统FlashProve。",
+    "date": "2026-11-05",
+    "tags": [
+      "AI新闻",
+      "中期选举",
+      "美股",
+      "腾讯混元",
+      "Hy4",
+      "Anthropic",
+      "Claude",
+      "OpenAI",
+      "算力",
+      "fal",
+      "具身智能",
+      "可验证推理"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-05-ai-news.md"
   }
 ]
