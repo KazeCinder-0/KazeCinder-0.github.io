@@ -1633,5 +1633,30 @@
     "author": "King Cobra",
     "readTime": "12 min",
     "content": "content/dailynews/2026-11-05-weekly-dev-launches.md"
+  },
+  {
+    "id": "news-61",
+    "title": "朝闻道 | 2026-11-06",
+    "excerpt": "11 月 5 日 OpenAI 发布网络安全模型 GPT-6 Cyber，ExploitGym 48.5%（前代 32.1%），越权利用率仅 0.07%，用 121 万美元在 Linux 内核产出 948 个可运行提权漏洞；同日 Cursor 上线 Build Live Apps，一句话完成应用、Postgres、SSO 与托管。月之暗面开放 Kimi K3.1 Pro 权重（2.8 万亿参数），昇腾次日 0 Day 适配；百度开源 ERNIE-5.5-Flash-Base（280B/14B、33.5 万亿 token）；谷歌 Gemini Omni 1.2 Flash 正式可用，15 秒、720p 每秒 0.07 美元。美股单日蒸发 3.2 万亿美元，纳指跌 5.52%、费半跌 12.25%，44 项数据中心暂停提案通过 43 项。谷歌 K-12 默认关 AI 却连带断搜索，遭桑德斯批评。RTX Spark 原生 Linux 推理仅 13.9 token/s。OpenAI 收 Pierre、Meta 收 Conductor；国内 20 家单位签《智能体发展自律公约》。",
+    "date": "2026-11-06",
+    "tags": [
+      "AI新闻",
+      "GPT-6 Cyber",
+      "Cursor",
+      "Kimi K3.1 Pro",
+      "百度文心",
+      "Gemini Omni",
+      "美股暴跌",
+      "Google K-12",
+      "RTX Spark",
+      "开源权重",
+      "智能体自律公约",
+      "AI编程"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-06-ai-news.md"
   }
 ]
