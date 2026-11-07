@@ -1658,5 +1658,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-06-ai-news.md"
+  },
+  {
+    "id": "news-62",
+    "title": "朝闻道 | 2026-11-07",
+    "excerpt": "OpenAI 完成新一轮融资首批约 110 亿美元交割，估值 1.25 万亿美元、整轮至多 200 亿；Anthropic IPO 同日被买家压价至低见 1.1 万亿美元，10 月初预期还是约 2 万亿。Ramp：企业 AI token 支出增速从 7 月的 42% 骤降至 1.5%，买方市场成形；METR 审计称 Anthropic 或已越过自设的 AI 研究加速阈值。开发者侧：Cursor 推出与编码智能体实时语音通话；Amp 上线 Spaces 主 Agent 编排并行线程；Thinking Machines 发布 Inkling 2 Small（594B/17B 激活，下周开放 Apache 2.0 权重）。安全面：Claude Code 被指把用户邮箱写进 User-Agent 泄漏；DeepMind 称 AI 智能体发现 RSA-1024 两个弱点、签名伪造效率理论提升约 1600 倍（2048 位不受影响）。微软被曝关停甲骨文算力租赁；纳指反弹 +1.73%。美国人形机器人第一股 Agility 上市，上半年营收仅 17.4 万美元、净亏 3.62 亿美元。",
+    "date": "2026-11-07",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "Anthropic",
+      "Cursor",
+      "Amp",
+      "Thinking Machines",
+      "Claude Code",
+      "DeepMind",
+      "Inkling 2 Small",
+      "人形机器人",
+      "数据中心",
+      "IPO"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-07-ai-news.md"
   }
 ]
