@@ -1683,5 +1683,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-07-ai-news.md"
+  },
+  {
+    "id": "news-63",
+    "title": "朝闻道 | 2026-11-08",
+    "excerpt": "11月7日，Apiiro披露Claude Code的「别再问我」按钮会把整条命令写进.claude/settings.local.json：GitHub上104,185份公开副本里1,122份带真密钥、去重1,379个，计入历史达2,539个，涉1,994个仓库、63家组织；gitleaks与TruffleHog各漏掉近半，215份两者皆未命中。MIT CSAIL「权重空间编程」被推向实用：Opus 5.5改17个权重矩阵，让4.94亿参数模型忘掉20个客户与10个密钥，其余客户仅掉2.5分；开源Qwen Concept 27B思考token减54%。libghostty-vt 1.0冻结C ABI，JetBrains 1,250万用户终端换底座。开放权重出现许可证分野：Ripple-65B真Apache 2.0，文心5.5 Flash把欧盟英国韩国排除在Territory外。Anthropic IPO估值砍至1.1—1.3万亿美元，OpenAI首期110亿到账。另有AI办公判例判赔4.6万元、Agent工具Gauge与Paradev、MSR AI Frontiers组落幕。",
+    "date": "2026-11-08",
+    "tags": [
+      "AI新闻",
+      "Claude Code",
+      "密钥泄漏",
+      "权重空间编程",
+      "libghostty",
+      "开放权重",
+      "Anthropic IPO",
+      "Anthropic",
+      "OpenAI",
+      "具身智能",
+      "AI监管",
+      "Agent工具链"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-08-ai-news.md"
   }
 ]
