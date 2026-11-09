@@ -1708,5 +1708,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-08-ai-news.md"
+  },
+  {
+    "id": "news-64",
+    "title": "朝闻道 | 2026-11-09",
+    "excerpt": "11 月 8 日至 9 日，Agent 的权限边界同时向两边移动。OpenCode 上线 Browse：一个 MCP 服务器加一个 Chromium 扩展，让 agent 用 Playwright 操作用户真实浏览器里已登录的标签页，遇到 2FA 与支付交还用户，agent 与浏览器可分跑两台机器，也接 Claude Code、Cursor、Codex；OpenAI 的 dots 则可用收件箱验证码代用户登录。同一天两把新尺子泼冷水：Co-Design Bench 里最好的 GPT-6 Astra 只有 26.4% 任务完全正确，与旧基准差超 35 个百分点；Cua Driver Bench 后台完成率 Cua 58%、browser-use 仅 3%。平台侧在收口：腾讯元器 11 月 9 日停服，数据导出截至 2027 年 1 月 9 日；中国移动 MoMA 汇聚 300 多款模型、Token 成本压降约 30%。英伟达董事会就 CEO 是否遭外国情报行动针对启动独立调查；Anthropic 34 亿美元直采 1.7GW 燃气发电机，灵光用户破 2000 万。",
+    "date": "2026-11-09",
+    "tags": [
+      "AI新闻",
+      "OpenCode",
+      "OpenAI dots",
+      "编码Agent",
+      "腾讯元器",
+      "中国移动MoMA",
+      "英伟达",
+      "Anthropic",
+      "具身智能",
+      "AI安全",
+      "基准评测",
+      "朝闻道"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-09-ai-news.md"
   }
 ]
