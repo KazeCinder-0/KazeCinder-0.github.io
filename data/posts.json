@@ -1737,7 +1737,7 @@
   {
     "id": "news-65",
     "title": "朝闻道 | 2026-11-10",
-    "excerpt": "11 月 10 日朝闻道：Anthropic 发布 Claude Fable 5.2 / Mythos 5.2，FrontierCode 2.0 从 32.4% 升至 49.1%，价格降 20%；阿里开源 Qwen3.8 全系，旗舰 2.4 万亿参数、CodeArena 登顶；美团以 MIT 协议开源 LongCat-2.5，1.6 万亿总参、480 亿激活；字节 Seedream 5.5 把 2K 方图编辑压到 0.28 元/张；千问办公 2.0 上线首个多人 + Agent 协作 TeamAgent；OpenAI 开源 Codex Security CLI，把漏洞扫描接进 CI；谷歌第八代 TPU 扩至四款，8tx 做芯片级机密计算、8i Max 双芯封装支持百万上下文；英伟达 VFlash 让机器人动作解码最高快 12 倍；阿布扎比与 OpenAI 把法规变成机器可读格式，审批从几天缩到几分钟；欧盟 27 国仍有 16 国未指定 AI 法案主管机构，逾期 464 天。",
+    "excerpt": "11 月 10 日朝闻道：Anthropic 发布 Claude Fable 5.2 / Mythos 5.2，FrontierCode 2.0 从 32.4% 升至 49.1%，价格降 20%；阿里开源 Qwen3.8 全系，旗舰 2.4 万亿参数、CodeArena 登顶；美团以 MIT 协议开源 LongCat-2.5，1.6 万亿总参、480 亿激活；字节 Seedream 5.5 把 2K 方图编辑压到 0.28 元/张；千问办公 2.0 上线首个多人 + Agent 协作 TeamAgent；OpenAI 开源 Codex Security CLI，把漏洞扫描接进 CI；谷歌第八代 TPU 扩至四款，8tx 做芯片级机密计算、8i Max 双芯封装支持百万上下文；英伟达 VFlash 让机器人动作解码最高快 12 倍；北大团队开源 5 万小时第一视角具身语料，真机零样本成功率 30.5%；欧盟 27 国仍有 16 国未指定 AI 法案主管机构，逾期 464 天。",
     "date": "2026-11-10",
     "tags": [
       "AI新闻",
