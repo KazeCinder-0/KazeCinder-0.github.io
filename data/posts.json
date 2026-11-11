@@ -1757,5 +1757,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-10-ai-news.md"
+  },
+  {
+    "id": "news-66",
+    "title": "朝闻道 | 2026-11-11",
+    "excerpt": "11 月 11 日朝闻道：谷歌全面开放 Gemini 4 Carbon，API 每百万输入 2 美元、输出 10 美元，11 月 30 日后翻倍，三项工作流评测第一；Meta 轻量模型 Muse Ember 单任务约 0.14 美元，仅为 Claude Haiku 5.5 的三分之一；MiniMax 开源 H3-Image，10 秒直出 4K 图、最多 16 张参考图；Adobe MAX 预览本地 MCP，第三方智能体可改 PS/PR 原生文件；Anthropic 在 IPO 路演当天推出 Claude Meetings、Whiteboards、Sheets 与正式版 Data；OpenAI 上线 Control Room，最长 35 秒切断内部研究模型输出；谷歌 MKA 基准含 200 任务、1459 份文件，最强模型前沿增量仅 56.56%；DeepMind Gemini Robotics 2.5 奔驰产线分拣 96%；蚂蚁灵波开源 LingBot-Touch，拧瓶盖 56.25%→90%；Claroc 查出 35,578 个 Grok Build 应用点开即看。",
+    "date": "2026-11-11",
+    "tags": [
+      "AI新闻",
+      "Gemini 4 Carbon",
+      "Muse Ember",
+      "H3-Image",
+      "Adobe MCP",
+      "Claude Meetings",
+      "Control Room",
+      "MKA 基准",
+      "Gemini Robotics 2.5",
+      "LingBot-Touch",
+      "Grok Build",
+      "AI 安全"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-11-ai-news.md"
   }
 ]
