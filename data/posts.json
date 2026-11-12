@@ -1782,5 +1782,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-11-ai-news.md"
+  },
+  {
+    "id": "news-67",
+    "title": "朝闻道 | 2026-11-12",
+    "excerpt": "11 月 12 日朝闻道：谷歌 Gemini Decision 1 一次判 1000 题、每百万输入 0.10 美元且输出不计费，9 项测试 7 项第一；AWS 开源 AWS Emulator，200 多项服务全由智能体编写、团队零行审查；阿里同日两发，Qwen Code 1.0 开源 Qoder 的 Harness，Qwen4-Max 预览版首发 Token Plan、100 万上下文、限时 2 折；百度文心 5.5 Flash Preview 2800 亿总参、140 亿激活、11 月 25 日开源；DeepMind 公开 650 万行 Lean 证明，四周验完 Signal 机器码、仅约 1% 需人工复看；AlphaGenome 2 因果变异召回 16% 升至 30%；Anthropic 称 Mythos 三天把 Claude 适配到 AMD MI355X；雪球行动越狱智能体两周攻陷欧洲电信与 13 家企业；北京定 2028 年 20 万台/年具身整机指标；SK 海力士 HBM4 良率破 70%，NAND 合约涨 50% 而现货跌 20%。",
+    "date": "2026-11-12",
+    "tags": [
+      "AI新闻",
+      "Gemini Decision 1",
+      "AWS Emulator",
+      "Qwen Code 1.0",
+      "Qwen4-Max",
+      "文心5.5 Flash",
+      "AlphaProof Code",
+      "AlphaGenome 2",
+      "HBM4",
+      "具身智能",
+      "智能体安全",
+      "开源"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-12-ai-news.md"
   }
 ]
