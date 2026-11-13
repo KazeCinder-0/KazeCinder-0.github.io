@@ -1807,5 +1807,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-12-ai-news.md"
+  },
+  {
+    "id": "news-68",
+    "title": "朝闻道 | 2026-11-13",
+    "excerpt": "谷歌 11 月 12 日发布 Gemini 4 Hydrogen：输入 1.50 / 输出 7.50 美元每百万 token，Terminal-Bench 4.1 从 18.2% 升至 57%，智能指数 51/54。同日黄仁勋即刻辞去英伟达总裁、CEO 与董事职务，CFO 克雷斯任临时 CEO，收盘跌 4.34%、市值蒸发近 1820 亿美元。百度世界 2026 推出词元所，上线一月入驻超 100 资源、日均调用超 5000 万次；文心 5.5 Flash Preview 11 月 25 日开源。四家非营利组织在旧金山起诉五家 AI 巨头请求冻结新模型。IBM 开源 Granite 4.1 LLMON，注入成功率从最高 100% 压到 0.02%；aiXcoder 开源 aiXcompact-4B 把上下文压到 25.89%；Runway 开源 27B 的 Praxis-1（RoboLab-120 46.2%）。美联航禁第三方 AI 代理代订机票，Uber 3.2 亿单里 AI 仅 4 笔叫车；Railway 就 74 万美元密钥盗刷开放赔付。",
+    "date": "2026-11-13",
+    "tags": [
+      "AI新闻",
+      "Gemini 4 Hydrogen",
+      "英伟达",
+      "黄仁勋辞任",
+      "词元所",
+      "百度世界2026",
+      "Granite LLMON",
+      "aiXcompact-4B",
+      "Praxis-1",
+      "AI诉讼",
+      "Agent权限",
+      "Railway"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-13-ai-news.md"
   }
 ]
