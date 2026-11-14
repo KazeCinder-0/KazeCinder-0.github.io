@@ -1832,5 +1832,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-13-ai-news.md"
+  },
+  {
+    "id": "news-69",
+    "title": "朝闻道 | 2026-11-14",
+    "excerpt": "OpenAI 11 月 13 日上线 ChatGPT Wallet，dots 智能体凭支付令牌代付、每笔需 Face ID 确认；同日 Google Wallet 只读接入 Gemini，Brave Search API 支持 x402、每次 0.005 美元。Cloudflare 以 Apache 2.0 开源 Agent 浏览器 Kitesurf，跑在 Workers，自部署自带零认证。无界前沿开源生信模型 Fx-Bio-1031（125B 总参、6B 激活），BioMysteryBench 困难子集 Pass@5 70.59%，高于 GPT-6-Astra 的 47.06%。Artificial Analysis 称约四分之一端点跑不满参考部署，AgentLeak 测得 68.8% 泄露藏在中间消息里。OpenAI 解散独立机器人团队，LangChain 融资 3 亿美元、估值 30 亿；欧盟都柏林首次 AI 峰会提 5000 亿欧元；Revolut 约 2000 名工程师改用智谱 GLM，成本降近 90%。火山 Seedance 2.5 Flash 约 0.99 元每秒。",
+    "date": "2026-11-14",
+    "tags": [
+      "AI新闻",
+      "ChatGPT Wallet",
+      "Kitesurf",
+      "Fx-Bio-1031",
+      "端点准确率",
+      "AgentLeak",
+      "具身智能",
+      "LangChain",
+      "欧盟AI峰会",
+      "GLM出海",
+      "SparkAudio",
+      "CoMind"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-14-ai-news.md"
   }
 ]
