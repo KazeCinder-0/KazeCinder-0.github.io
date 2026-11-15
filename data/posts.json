@@ -1857,5 +1857,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-14-ai-news.md"
+  },
+  {
+    "id": "news-70",
+    "title": "朝闻道 | 2026-11-15",
+    "excerpt": "Anthropic 11 月 14 日把 Claude Code Projects 改成 goal→协调器→并行线程；同日 Opus 5.5 成为四个付费计划默认，官方劝删掉 think hard、从 Medium 起步，每百万输入/输出 4/20 美元。DeepSeek 13 日晚开放全家桶 API，搜索、OCR、ASR、TTS 单独计费，MIT 开源 chat-demo；Antigravity 重置 Gemini 额度并推出 Dynamic Workflows，让 agent 写 Python 调度多 agent。质疑侧：Edge0-145B 宣称 29GB 跑 145B，被拆出 105.4GB 权重；SPU 湿实验基准 12 款模型最高 0.486，推理拉满耗时 4.8 倍、成本 5.3 倍而分数不变；Portal2Bench 26 关 GPT-6.1 Sol 过 20。国内联想词元工厂落地张家口，一期 1.5 万 P、年产 2000 万亿 Token；黄仁勋辞任后续为国会 12 月 3 日听证与三项芯片法案，路透发现 230 亿元项目仍用 H100/H200。",
+    "date": "2026-11-15",
+    "tags": [
+      "AI新闻",
+      "Claude Code",
+      "Claude Opus 5.5",
+      "DeepSeek API",
+      "Antigravity",
+      "Edge0-145B",
+      "SPU 基准",
+      "Portal2Bench",
+      "llama.cpp 1.0",
+      "词元工厂",
+      "联想",
+      "芯片出口管制"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-15-ai-news.md"
   }
 ]
