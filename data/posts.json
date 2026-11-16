@@ -1882,5 +1882,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-15-ai-news.md"
+  },
+  {
+    "id": "news-71",
+    "title": "朝闻道 | 2026-11-16",
+    "excerpt": "主线是省事后的验收账单。Fireworks AI 一把只读密钥串起三家公司：Cursor 会话轨迹混入未脱敏凭据（影响不到 0.01% 客户）、10-29 带毒 Claude Code 扩展入缓存约 11 小时最多 5000 用户，Uber 三州通报 7870 人驾照被盗。Claude Code 的 Code Mode 写一段 JS 批量调工具、周末走红，「省 37% token」实为 2025-11 另一项测试。11-16 Copilot 退役 Opus 4.8、Opus 5、GPT-5.6 Terra 三款。Chrome DevTools MCP 单日 +664 星，Pydantic Agent Sandboxes、ArmourCode 钩子齐上。Google /teamwork 用 Lean 4 证伪器完成 180 万行 Weil 形式化、28800 次子智能体。另有微软 365 宕机 SLA 索赔、Lovable 扫描 159041 个应用曝护照与 20 万条私信，马来西亚按功耗查走私、国会四项法案搭 NDAA，韩国状元 160 题错 1 道自首。",
+    "date": "2026-11-16",
+    "tags": [
+      "AI新闻",
+      "Fireworks AI",
+      "Cursor",
+      "Claude Code",
+      "Code Mode",
+      "Copilot",
+      "Chrome DevTools MCP",
+      "Antigravity",
+      "Lovable",
+      "出口管制",
+      "AI 供应链安全",
+      "GitHub Trending"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-16-ai-news.md"
   }
 ]
