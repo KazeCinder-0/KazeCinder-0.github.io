@@ -1907,5 +1907,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-16-ai-news.md"
+  },
+  {
+    "id": "news-72",
+    "title": "朝闻道 | 2026-11-17",
+    "excerpt": "主线是能力在降价、授权在加价。阿里 Qwen4-Max 正式发布：2.4 万亿参只激活 710 亿，单任务费用降 58% 至 11.16 元，旗舰不开源。腾讯 Hy4 flash 激活仅 12B，成本为 Hy4 的 1/20；DeepSeek 因算力不足给长对话限额。今天能装：OpenCode Browse 真实浏览器、Modern Web Guidance 250 条技能、Univer、Goethe 等一批工具链。加州起诉 OpenAI，诉状称失控超 80 次，首次追问 Agent 越界算谁的责任。OpenAI 请进 6 名 Apollo 评估员查「颠覆」，Anthropic 招股书改口称已触发 RSP 门槛。苹果把全磁盘访问拆成两项；美国 BIS 132 页规则设 1200 万 TPP 红线。FBI 警告 Artex 三小时攻破网络、超 1600 个控制台暴露。华为云 CloudRobo-WM1.2 双榜第一、定 11-30 开源；蚂蚁灵波 1855 支队伍真机赛夺冠。英伟达 SC26 发布 Rubin HPC，单卡超 5 万 CUDA 核心、FP64 33 TFLOPS。",
+    "date": "2026-11-17",
+    "tags": [
+      "AI新闻",
+      "Qwen4-Max",
+      "Hy4 flash",
+      "加州起诉 OpenAI",
+      "macOS 27.3",
+      "AI 出口管制",
+      "Artex",
+      "CloudRobo-WM1.2",
+      "Rubin HPC",
+      "Agent 权限",
+      "GitHub Trending",
+      "Anthropic"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-17-ai-news.md"
   }
 ]
