@@ -1932,5 +1932,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-17-ai-news.md"
+  },
+  {
+    "id": "news-73",
+    "title": "朝闻道 | 2026-11-18",
+    "excerpt": "OpenAI 发布 GPT-6.2 Astra/Sol，旗舰降价 20%、缓存降 60%。微软 Ignite 发七款 MAI 模型，Code 2 主打对手 40% 价格。谷歌 Gemini Tasks 六国免费，可代打电话结账。商汤 Loop-9B 4.9GB 权重、10GB 显存，OVH Olala mini 纯 CPU 50 tok/s。Copilot SDK 2.0 用 Rust 把延迟压到 55.3 毫秒。英伟达 Q3 营收 1158.4 亿美元、Q4 指引 1300 亿，Vera Rubin 出货。Google 确认首例全自动补丁转攻击 exploit_agent，Anthropic 把披露窗口从 90 天收至 30 天。BIS 1200 万 TPP 远程算力规则 11-19 生效，另列 33 个出口联盟。APEC 深圳李彦宏警示 AI 泡沫，雷军押物理世界。社区 27280 次运行 64.5% 花费打了水漂，爬取型购物 Agent 升至 80.5%。",
+    "date": "2026-11-18",
+    "tags": [
+      "AI新闻",
+      "GPT-6.2 Astra",
+      "MAI Code 2",
+      "Gemini Tasks",
+      "Copilot SDK 2.0",
+      "英伟达财报",
+      "Vera Rubin",
+      "BIS 出口管制",
+      "exploit_agent",
+      "开源模型",
+      "APEC 深圳",
+      "Agent 成本"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-18-ai-news.md"
   }
 ]
