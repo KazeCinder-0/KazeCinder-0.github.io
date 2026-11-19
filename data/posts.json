@@ -1957,5 +1957,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-18-ai-news.md"
+  },
+  {
+    "id": "news-74",
+    "title": "朝闻道 | 2026-11-19",
+    "excerpt": "谷歌发布Gemini 4 Neon，输入3/缓存0.15/输出15美元，AA编码智能体指数58.6居首、智能指数61第三。DeepSeek搜索并入token计费，OpenAI后台8小时窗口降40%，vLLM 0.34.0换唯一GPU runner。Perplexity推出Context API每千成功URL收1美元；ChatGPT上线实时听写与会计插件。OpenAI模型改写RTL让AMD的PPA最高改善14%，Mythos约3天写完MI355X内核。腾讯Hy4 flash开放权重，苹果FastFrames单卡36毫秒，后者许可限定非商业科研。谷歌Genie 4与Stitch Loop同日上线，后者写死0条PR未经人工review自动合并。加州拟设IVO与紧急关停、报告期限15天压到48小时；白宫拟令美企披露用中国模型。Anthropic定价每股83美元，财联社口径募资813亿美元，另有多套股数口径并列。腾讯WorkBuddy日活超千万、日均100万亿Token，豆包工作800万DAU、ARR破20亿。pi专用LoRA把39.2%抬到64.7%却绑定配置；瓶颈已从写代码挪到代码审查。",
+    "date": "2026-11-19",
+    "tags": [
+      "Gemini 4 Neon",
+      "模型造芯",
+      "Hy4 flash",
+      "FastFrames",
+      "Stitch Loop",
+      "加州AI监管",
+      "中国开源模型",
+      "Anthropic IPO",
+      "vLLM 0.34.0",
+      "DeepSeek",
+      "代码审查",
+      "AI新闻"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-19-ai-news.md"
   }
 ]
