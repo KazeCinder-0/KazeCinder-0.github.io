@@ -1982,5 +1982,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-19-ai-news.md"
+  },
+  {
+    "id": "news-75",
+    "title": "朝闻道 | 2026-11-20",
+    "excerpt": "扩散智能开源Clover-35B块扩散模型，SWE-bench 73.6分胜自回归65.8，单卡680 token/s。Hugging Face用SSD流式加载让180B MoE跑进32GB M5 MacBook，14 tok/s仅慢Strata 6%。Rumble-2-Flash 0.5B、DaisyRose-27B、Aion 1.0、Depth Pro 2同日开放权重。OpenAI性能工厂1700次调查、600多根因，仅15个PR敢原样合入。谷歌给macOS版Gemini加Computer Use，苹果招人做系统级agent，火山上线SeedRealtime 1.0。Anthropic以ANT首日收97.17美元涨17%、募813亿创纪录，同日四大指数跌逾2%。花旗等五家银行把agent风险推给客户，亚利桑那对OpenAI启动刑事调查。GAO证实四款聊天机器人12小时内被绕过，但无对照组、非统计显著。微软agent-framework的PyPI包投毒33分钟窃云凭据，Java4Shell与NGINX现pre-auth RCE。",
+    "date": "2026-11-20",
+    "tags": [
+      "Clover块扩散",
+      "SSD流式加载",
+      "Performance Factory",
+      "Computer Use",
+      "Anthropic IPO",
+      "GAO报告",
+      "Java4Shell",
+      "阿里财报",
+      "平头哥",
+      "黑洞物理",
+      "AI agent责任",
+      "AI新闻"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-20-ai-news.md"
   }
 ]
