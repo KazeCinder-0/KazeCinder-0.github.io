@@ -2007,5 +2007,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-20-ai-news.md"
+  },
+  {
+    "id": "news-76",
+    "title": "朝闻道 | 2026-11-21",
+    "excerpt": "腾讯 11-20 开源 Hy4：770B 总参、1M 上下文，许可证藏 5000 万美元门槛。Inkling 2 Mini 层跑三遍，26.4B 进 20GB 笔记本，每任务 0.59 美元。Alpöge 借 Claude 称证黎曼猜想：1737 万行 Lean，25 万页论文未公开。Codex CLI 默认开工作区、Vibe 审批四档、Kimi Code 接 Bedrock。Replit 32 个 agent 跑 18.9 倍，Astra 集群退化，Vercel Board 做共享任务板。OpenAI 两报告：MedChemBench 84.5% 却选不对药，反蒸馏提取率 54%→0.2%。Signal 默认屏蔽截图，Muse 借权限读 Signal 消息，加密未破。纳指跌 5.3%、英伟达七连跌蒸发 2.65 万亿美元，SEC 查会计与循环融资。特朗普扬言对海外数据中心征巨额税，众议院披露批准 87.9 万颗对华芯片。智元 G2 进手机产线、SuperMimic 千分之一算力反超，PhyDEX 打回 2.4%。",
+    "date": "2026-11-21",
+    "tags": [
+      "AI新闻",
+      "腾讯混元",
+      "Hy4",
+      "Inkling 2 Mini",
+      "黎曼猜想",
+      "反蒸馏",
+      "MedChemBench",
+      "Signal",
+      "多智能体编排",
+      "英伟达",
+      "BIS出口管制",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-21-ai-news.md"
   }
 ]
