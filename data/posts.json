@@ -2032,5 +2032,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-21-ai-news.md"
+  },
+  {
+    "id": "news-77",
+    "title": "朝闻道 | 2026-11-23",
+    "excerpt": "OpenAI 公开困惑度曲线并提议全行业共同设限，预警 2027 年 AI 加速自身研发。MiniMax 模型 0.045 秒造出密码碰撞，秒级攻破多个 NIST 候选算法，称不影响 AES 等主流标准。OpenRouter 下架三家供应商、125 端点摘 ZDR，200 万金丝雀提示词抓出提示词留存。蚂蚁开源 560B 医疗 MoE，却被测出独立跑分仅 23.3%、HF 下载为 0；Sarvam 同日放 105B 权重。GPT-Live-1.1 待机 0.02 美元/分、Google 密钥挪出沙箱、Pandex 法条 MCP，是本周可上手的一批工具。alphaXiv 936 个智能体自办期刊，重跑脚本推翻 49.4% 核心结论，严谨性 9.02 胜人类 7.00。Lean 社区给黎曼证明盖章，克雷研究所仍列未解，还冒出空洞证明质疑。美众议院 50 页报告拟把中国开源权重模型移出联邦系统，12 条建议尚未立法。国家数据局拟立词元计量计费标准，日均词元调用破 500 万亿、中国模型连续 29 周第一。英伟达预印本称长上下文是昂贵弯路，编码 agent 全指标及格率仅 29.4%。",
+    "date": "2026-11-23",
+    "tags": [
+      "AI新闻",
+      "OpenAI",
+      "困惑度",
+      "MiniMax",
+      "密码分析",
+      "OpenRouter",
+      "零数据保留",
+      "蚂蚁百灵",
+      "alphaXiv",
+      "黎曼猜想",
+      "众议院报告",
+      "词元经济"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-23-ai-news.md"
   }
 ]
