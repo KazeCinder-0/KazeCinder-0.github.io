@@ -2057,5 +2057,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-23-ai-news.md"
+  },
+  {
+    "id": "news-78",
+    "title": "朝闻道 | 2026-11-24",
+    "excerpt": "智谱发GLM-5.4，28层循环两次，Coding Plan可用，权重仅\"计划开源\"、无旗舰跑分。Anthropic上线Claude Ship，AI按仓库YAML代批PR，/ship一键审修批，合并仍由GitHub把关。AWS开源5个Gemma 4决策模型最大31B，内部工单降本98%，Box CLI把密钥移出沙箱。谷歌用Gemini 4智能体改量子算法，arcsin提速290倍，结果过Lean验证并开源。中电信开源Xing4.1-Preview，285B/17B、1M上下文、8192张昇腾910C，Apache 2.0。OpenAI与思科开源Shirudo，eBPF免重启挂盾挡Java4Shell，带签名与TPM留痕。研究发现0.1%预训练投毒可埋RCE后门，干净微调洗不掉，4B命中率92.7%。RoboChallenge把11模型接真机，330次成功率44.85%，理线55次全败。俄勒冈、弗吉尼亚首批起诉SpaceX，指控Grok生成儿童性化图像并虚假宣传安全。黄仁勋辞任11天后复职，英伟达单日涨31.5%，12月3日听证问出口管制。",
+    "date": "2026-11-24",
+    "tags": [
+      "AI新闻",
+      "智谱GLM-5.4",
+      "Claude Ship",
+      "Strands Decider v2",
+      "量子算法",
+      "Xing4.1-Preview",
+      "Shirudo",
+      "数据投毒",
+      "RoboChallenge Zero",
+      "Grok诉讼",
+      "黄仁勋复职",
+      "AI服务器涨价"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-24-ai-news.md"
   }
 ]
