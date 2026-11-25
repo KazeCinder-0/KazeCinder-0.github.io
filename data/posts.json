@@ -2082,5 +2082,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-24-ai-news.md"
+  },
+  {
+    "id": "news-79",
+    "title": "朝闻道 | 2026-11-25",
+    "excerpt": "Skills over MCP 公测：SDK 月下载超 7 亿、连接器超 1 万，Tasks 与 Elicitation 转正。Workspace MCP 与 CLI GA，2027-02-01 起 agent 须走新接口。ShellBench 53,100 次运行：Astra 62.5%，三次全对仅 48.8%，15.7% 违反安全项。文心 5.5 Flash Preview 开源：2800 亿总参、百万上下文。腾讯 Hy-MT3 开源 102 语种；商汤 U1.6 让 8B 模型自检图中错字；OmniEVIE-4B 压向量。MiniMax H3 Family 视频低至 0.16 元每秒，2K 与 Context-IR 仅 API，许可排除四地。Claude 交出 VP≠VNP 的 7.3 万行 Lean 证明，机器过检但命题对应仅由 AI 读者判定。Axios：两家实验室内部模型过强，发布节奏或放缓。AWS 修 ECS MCP 脱敏漏洞；诱饵实验见数万次密钥试错。中国牵头 78 项 AI 国际标准、上半年产业超 7500 亿；澳洲拟罚全球营收 5%。",
+    "date": "2026-11-25",
+    "tags": [
+      "AI新闻",
+      "朝闻道",
+      "MCP",
+      "Anthropic",
+      "Google Workspace",
+      "ShellBench",
+      "文心5.5",
+      "混元Hy-MT3",
+      "SenseNova U1.6",
+      "MiniMax H3",
+      "Lean形式化",
+      "AI标准"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-25-ai-news.md"
   }
 ]
