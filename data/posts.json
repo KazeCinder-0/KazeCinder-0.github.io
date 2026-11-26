@@ -2107,5 +2107,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-25-ai-news.md"
+  },
+  {
+    "id": "news-80",
+    "title": "朝闻道 | 2026-11-26",
+    "excerpt": "Cloudflare 上线 Search for Agents，站点开关即可开放 Agent 可发现的站内搜索；JetBrains 开源 Mellum2.1 Instruct，12B 总参 2.5B 激活，SWE-bench 40.4；英伟达实时 fork 提速 84.1 倍，NVFP4 注意力合入 FlashInfer；OpenAI 合池 Chat 与 Codex 额度，并试点私有推理；Anthropic Messages API 迁 Rust，CPU 降 70%；微软 Foundry Dev Pack 与 azd ai 正式可用，Decision-1.1 输入 0.042 美元每百万 token；Copilot CLI 空工具列表改为零工具，Agent 11 分钟利用 9.8 分漏洞拿到 root；Anthropic 调研 58 家公司：55% 部署有提升，19% 至今没有业务价值；42 位总检察长拦下 Character.AI 拍卖，涉及 2100 万条私聊与 210 万未成年人；小鹏 IRON 定档量产，WALL-OSS-1.0 零样本 55.1%。",
+    "date": "2026-11-26",
+    "tags": [
+      "AI新闻",
+      "朝闻道",
+      "Cloudflare",
+      "Search for Agents",
+      "Mellum2.1",
+      "TimeTravelContainer",
+      "NVFP4",
+      "OpenAI",
+      "Anthropic",
+      "Microsoft Foundry",
+      "Character.AI",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-26-ai-news.md"
   }
 ]
