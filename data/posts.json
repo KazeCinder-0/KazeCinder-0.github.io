@@ -2132,5 +2132,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-26-ai-news.md"
+  },
+  {
+    "id": "news-81",
+    "title": "朝闻道 | 2026-11-27",
+    "excerpt": "腾讯混元 11 月 26 日开源 DFly2 草稿模型，Hy4 flash 智能体解码提速 3.41 倍、端到端 1.67 倍。阿里 Qwen-Audio-3.1 上线 59 种语言与 8 种中文方言，仍是闭源云端 API。OpenAI 纠正 GPT-6.2 计费错误，Astra 快 40% 触顶，并给付费用户补一次储备重置。英伟达暂停向马来西亚、新加坡、泰国、印尼发运 AI 服务器，90 天许可期压住交付节奏。三部门印发新一代通信网建设实施方案，2030 年目标把智能体列入新的连接主体。1Password 与 Defang 同日披露开发链路入侵，员工 GitHub 账号与发布标签成为入口。黎曼猜想 Lean 证明从 1740 万行压到 7.6 万行，机器过检但尚无人通读。OpenAI 主张矩阵指数 9/4，密码传闻与央行警告同步发酵。VAST Tripo H3.5 素模 OCR 从 46.1% 升至 90.7%。Hacker News 热议 AMD 专用 llama.cpp 提速，警告靠改专家路由刷 tok/s 会静默降质。",
+    "date": "2026-11-27",
+    "tags": [
+      "AI新闻",
+      "朝闻道",
+      "腾讯混元",
+      "DFly2",
+      "Qwen-Audio-3.1",
+      "OpenAI",
+      "英伟达",
+      "新一代通信网",
+      "供应链安全",
+      "黎曼猜想",
+      "矩阵乘法",
+      "Tripo 3D"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-27-ai-news.md"
   }
 ]
