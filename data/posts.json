@@ -2157,5 +2157,30 @@
     "author": "King Cobra",
     "readTime": "15 min",
     "content": "content/dailynews/2026-11-27-ai-news.md"
+  },
+  {
+    "id": "news-82",
+    "title": "朝闻道 | 2026-11-28",
+    "excerpt": "谷歌开源gemini-api-cli(v0.5.0、2.6k星)，让Claude Code一行命令调Gemini图像语音视频。斯坦福学者与GPT-6 Astra耗4亿token写出83页量子引力预印本，未经同行评审引争议。腾讯混元Hy3D 3.6把图片转3D压到每次3至9元，200万面8K PBR冲生产流水线。英伟达开源30B自回归图像模型Nemotron-Labs-Image，像素即代码挑战扩散但仅限非商用。微信开源WeMM-Ecom电商多模态家族，35B-A3B以74.4分领先旗舰、日均十亿次调用。谷歌Mass Spec Skills给Gemini接质谱工具，识别率从不足4%跳到约97%。日本内阁府草案给高性能AI上安全义务与罚则，点名OpenAI、阿里、DeepSeek，尚未立法。OpenAI反诉苹果列12项诉由，AI硬件之争打到供应链与离职文件，原始审判明年7月。MCP补8洞、llama.cpp两连修、Gemini研究Skill开源。具身侧小米世界模型2.0、蚂蚁灵波双模型、商汤27B与众擎大小脑同日交付可验收成果。",
+    "date": "2026-11-28",
+    "tags": [
+      "AI新闻",
+      "谷歌",
+      "gemini-api-cli",
+      "GPT-6 Astra",
+      "量子引力",
+      "腾讯混元",
+      "Hy3D",
+      "英伟达",
+      "微信WeMM-Ecom",
+      "日本AI法",
+      "OpenAI",
+      "具身智能"
+    ],
+    "category": "ainews",
+    "chapter": "",
+    "author": "King Cobra",
+    "readTime": "15 min",
+    "content": "content/dailynews/2026-11-28-ai-news.md"
   }
 ]
